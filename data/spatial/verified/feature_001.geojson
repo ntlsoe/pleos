@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "referenceAnchor": {
+      "latitude": 37.401,
+      "longitude": 127.106,
+      "altitudeMeters": 35.0
+    },
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU",
+    "geodeticDatum": "WGS84",
+    "qualityGrade": "MANUALLY_VERIFIED_MAP_GEOMETRY"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [127.1059548, 37.4011216],
+            [127.1060452, 37.4011216],
+            [127.1060452, 37.4011487],
+            [127.1059548, 37.4011487],
+            [127.1059548, 37.4011216]
+          ]
+        ]
+      },
+      "properties": {
+        "featureId": "FEATURE_VERIFIED_CW_001",
+        "riskType": "CROSSWALK",
+        "source": "MANUALLY_VERIFIED_MAP_GEOMETRY",
+        "geometryMethod": "ORTHOPHOTO_MANUAL_ALIGNMENT",
+        "manualVerified": true,
+        "coordinateQuality": "MANUALLY_VERIFIED_MAP_GEOMETRY",
+        "widthMeters": 8.0,
+        "lengthMeters": 3.0,
+        "directionDegrees": 90.0,
+        "centerLocalEnu": [0.0, 15.0, 0.0],
+        "verifiedDate": "2026-11-08",
+        "verifiedBy": "Dongjin Kim (Yonsei Univ Severance Hospital)",
+        "evidenceFile": "data/spatial/verified/feature_001_evidence.png",
+        "evidenceFileSha256": "012C1375F0089603D782C2EFF660B672DDF6A3C1D20B115457D1D12EA67ED0A4",
+        "license": "Korea Open Government License (KOGL) Type 1",
+        "notes": "Pangyo Daewangpangyo-ro public crosswalk verified against NGII/VWorld orthophoto"
+      }
+    }
+  ]
+}

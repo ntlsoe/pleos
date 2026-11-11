@@ -1,0 +1,16 @@
+{
+  "profileId": "HYUNDAI_IONIQ5_PUBLIC_DIMENSION_APPROX_V1",
+  "modelName": "아이오닉 5",
+  "modelYear": "2026",
+  "bodyType": "중형 크로스오버 EV",
+  "lengthMm": 4655,
+  "widthMm": 1890,
+  "heightMm": 1605,
+  "wheelbaseMm": 3000,
+  "steeringSide": "LEFT_HAND_DRIVE",
+  "verificationLevel": "PUBLIC_DIMENSION_ONLY",
+  "pillarGeometryStatus": "SYNTHETIC_APPROXIMATION",
+  "eyeModelStatus": "REPRESENTATIVE_POPULATION_APPROXIMATION",
+  "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/ioniq5/spec",
+  "limitations": "공식 외형 제원 기반. A필러·눈 위치는 비공개이므로 근사값 필요"
+}

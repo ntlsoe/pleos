@@ -1,0 +1,48 @@
+{
+  "featureId": "FEATURE_VERIFIED_SZ_047",
+  "zoneId": "SZ_047",
+  "facilityName": "문흥중앙초등학교",
+  "crosswalkSourceRecordId": "G00174",
+  "primarySource": {
+    "agency": "National Geographic Information Institute (NGII) & Local Municipality",
+    "portal": "VWorld Platform (vworld.kr) & Data.go.kr",
+    "layer": "Public Aerial Orthophoto (25cm/px) & National Crosswalk Standard Data",
+    "officialUrl": "https://www.data.go.kr/data/15028201/standard.do",
+    "requestIdentifier": "VWORLD_WMTS_ORTHO_2025_GWANGJU_SZ047",
+    "datasetName": "전국횡단보도표준데이터",
+    "datasetRelease": "2026-09 Public Release",
+    "captureDate": "2026-11-08T12:00:00Z",
+    "sourceRecordId": "G00174"
+  },
+  "spatialReference": {
+    "coordinateSystem": "WGS84 (EPSG:4326)",
+    "verticalDatum": "Incheon Mean Sea Level",
+    "centerLatitude": 35.18341,
+    "centerLongitude": 126.921163,
+    "headingDegrees": 75.0,
+    "widthMeters": 6.0,
+    "lengthMeters": 15.0,
+    "zoomLevel": 19,
+    "groundSampleDistanceMeters": 0.25,
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU"
+  },
+  "license": {
+    "type": "Korea Open Government License (KOGL) Type 1",
+    "officialLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "attributionRequired": true,
+    "attributionText": "출처: 광주광역시 북구청 / VWorld 오픈플랫폼 (공공누리 제1유형)",
+    "commercialUsePermitted": true,
+    "modificationPermitted": true,
+    "binaryBundlingPolicy": "RAW_IMAGE_EXCLUDED_METADATA_ONLY"
+  },
+  "overlayEvidence": {
+    "overlayFileName": "feature_SZ_047_measurement_overlay.png",
+    "overlayFileSha256": "70036C2DCA5926729F29682FE597805ACE9AE5B157FD7EC96505B66A2980D9E9",
+    "manualMeasurementMethod": "WGS84 Tangent ENU (Heading 75.0deg, Width 6.0m, Length 15.0m)"
+  },
+  "qualityGate": {
+    "status": "PASSED",
+    "qualityGrade": "GRADE_B",
+    "eligibleForOcclusionBatch": true
+  }
+}

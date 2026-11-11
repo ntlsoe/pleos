@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "zoneId": "SZ_047",
+    "facilityName": "문흥중앙초등학교",
+    "crosswalkSourceRecordId": "G00174",
+    "referenceAnchor": {
+      "latitude": 35.18341,
+      "longitude": 126.921163,
+      "altitudeMeters": 30.0
+    },
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU",
+    "geodeticDatum": "WGS84",
+    "qualityGrade": "GRADE_B_MANUALLY_VERIFIED_MAP_GEOMETRY"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9212512,
+              35.1834014
+            ],
+            [
+              126.9212341,
+              35.1834535
+            ],
+            [
+              126.9210748,
+              35.1834186
+            ],
+            [
+              126.9210919,
+              35.1833665
+            ],
+            [
+              126.9212512,
+              35.1834014
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "featureId": "FEATURE_VERIFIED_SZ_047",
+        "zoneId": "SZ_047",
+        "facilityName": "문흥중앙초등학교",
+        "riskType": "CROSSWALK",
+        "crosswalkSourceRecordId": "G00174",
+        "source": "MANUALLY_VERIFIED_MAP_GEOMETRY",
+        "geometryMethod": "ORTHOPHOTO_MANUAL_ALIGNMENT",
+        "manualVerified": true,
+        "qualityGrade": "GRADE_B",
+        "eligibleForOcclusionBatch": true,
+        "widthMeters": 6.0,
+        "lengthMeters": 15.0,
+        "directionDegrees": 75.0,
+        "centerLocalEnu": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "verifiedDate": "2026-11-08",
+        "verifiedBy": "Dongjin Kim (Yonsei Univ Severance Hospital)",
+        "overlayFile": "data/spatial/verified/feature_SZ_047_measurement_overlay.png",
+        "overlayFileSha256": "70036C2DCA5926729F29682FE597805ACE9AE5B157FD7EC96505B66A2980D9E9",
+        "license": "Korea Open Government License (KOGL) Type 1",
+        "notes": "School zone SZ_047 verified against National Crosswalk Standard G00174 and NGII/VWorld orthophoto"
+      }
+    }
+  ]
+}

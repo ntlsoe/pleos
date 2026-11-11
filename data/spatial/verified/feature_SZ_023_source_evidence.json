@@ -1,0 +1,48 @@
+{
+  "featureId": "FEATURE_VERIFIED_SZ_023",
+  "zoneId": "SZ_023",
+  "facilityName": "문산초등학교",
+  "crosswalkSourceRecordId": "G00148",
+  "primarySource": {
+    "agency": "National Geographic Information Institute (NGII) & Local Municipality",
+    "portal": "VWorld Platform (vworld.kr) & Data.go.kr",
+    "layer": "Public Aerial Orthophoto (25cm/px) & National Crosswalk Standard Data",
+    "officialUrl": "https://www.data.go.kr/data/15028201/standard.do",
+    "requestIdentifier": "VWORLD_WMTS_ORTHO_2025_GWANGJU_SZ023",
+    "datasetName": "전국횡단보도표준데이터",
+    "datasetRelease": "2026-09 Public Release",
+    "captureDate": "2026-11-08T12:00:00Z",
+    "sourceRecordId": "G00148"
+  },
+  "spatialReference": {
+    "coordinateSystem": "WGS84 (EPSG:4326)",
+    "verticalDatum": "Incheon Mean Sea Level",
+    "centerLatitude": 35.187953,
+    "centerLongitude": 126.925242,
+    "headingDegrees": 80.0,
+    "widthMeters": 6.0,
+    "lengthMeters": 25.0,
+    "zoomLevel": 19,
+    "groundSampleDistanceMeters": 0.25,
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU"
+  },
+  "license": {
+    "type": "Korea Open Government License (KOGL) Type 1",
+    "officialLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "attributionRequired": true,
+    "attributionText": "출처: 광주광역시 북구청 / VWorld 오픈플랫폼 (공공누리 제1유형)",
+    "commercialUsePermitted": true,
+    "modificationPermitted": true,
+    "binaryBundlingPolicy": "RAW_IMAGE_EXCLUDED_METADATA_ONLY"
+  },
+  "overlayEvidence": {
+    "overlayFileName": "feature_SZ_023_measurement_overlay.png",
+    "overlayFileSha256": "5956BE5237E55C5406C8820B5993CC55DC12BEE4ED21A6FF715AC3A79B8B5C23",
+    "manualMeasurementMethod": "WGS84 Tangent ENU (Heading 80.0deg, Width 6.0m, Length 25.0m)"
+  },
+  "qualityGate": {
+    "status": "PASSED",
+    "qualityGrade": "GRADE_B",
+    "eligibleForOcclusionBatch": true
+  }
+}

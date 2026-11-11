@@ -1,0 +1,46 @@
+{
+  "pathRules": {
+    "STRAIGHT_SILENCE": {
+      "trajectoryType": "STRAIGHT_LINE",
+      "speedProfile": "CONST_30KMH",
+      "lateralDistanceToHazardM": 20.0,
+      "occlusionExpected": false
+    },
+    "ZONE_ENTRY": {
+      "trajectoryType": "STRAIGHT_LINE",
+      "speedProfile": "CONST_20KMH",
+      "lateralDistanceToHazardM": 12.0,
+      "occlusionExpected": false
+    },
+    "STALE_SUPPRESSION": {
+      "trajectoryType": "SUPPRESSED",
+      "speedProfile": "ZERO",
+      "lateralDistanceToHazardM": 99.0,
+      "occlusionExpected": false
+    },
+    "LOW_QUALITY_FAIL_CLOSED": {
+      "trajectoryType": "FAIL_CLOSED",
+      "speedProfile": "ZERO",
+      "lateralDistanceToHazardM": 99.0,
+      "occlusionExpected": false
+    },
+    "CROSSWALK_STRAIGHT": {
+      "trajectoryType": "STRAIGHT_APPROACH",
+      "speedProfile": "DECEL_15_TO_10KMH",
+      "lateralDistanceToHazardM": 1.5,
+      "occlusionExpected": true
+    },
+    "CROSSWALK_RIGHT_TURN": {
+      "trajectoryType": "RIGHT_TURN_ARC_R12",
+      "speedProfile": "CONST_10KMH",
+      "lateralDistanceToHazardM": 2.0,
+      "occlusionExpected": true
+    },
+    "CROSSWALK_STOP_AND_GO": {
+      "trajectoryType": "STOP_LINE_RESTART",
+      "speedProfile": "ACCEL_0_TO_5KMH",
+      "lateralDistanceToHazardM": 1.0,
+      "occlusionExpected": true
+    }
+  }
+}

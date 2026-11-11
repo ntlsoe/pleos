@@ -1,0 +1,5 @@
+Public-source snapshot extracted from the exact Git tree at:
+Commit: 7110eb42057c4404dcbc0034aecb08a65bd18721
+Original local source tag: v48-verified-source-baseline
+
+This is a curated source export for the contest. The original repository, commit, and tag remain unchanged in D:\hyundae\source. The old APKs, internal audit archive/history, logs, work correspondence, and SDK binaries are not included. The sole APK in this export is the separately verified final Release artifact recorded in the Work 49 final inventory.

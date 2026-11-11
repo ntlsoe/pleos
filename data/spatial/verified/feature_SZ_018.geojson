@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "zoneId": "SZ_018",
+    "facilityName": "중흥초등학교",
+    "crosswalkSourceRecordId": "G00014",
+    "referenceAnchor": {
+      "latitude": 35.161147,
+      "longitude": 126.914302,
+      "altitudeMeters": 30.0
+    },
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU",
+    "geodeticDatum": "WGS84",
+    "qualityGrade": "GRADE_B_MANUALLY_VERIFIED_MAP_GEOMETRY"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9143421,
+              35.1610363
+            ],
+            [
+              126.9143992,
+              35.1610632
+            ],
+            [
+              126.9142619,
+              35.1612577
+            ],
+            [
+              126.9142048,
+              35.1612308
+            ],
+            [
+              126.9143421,
+              35.1610363
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "featureId": "FEATURE_VERIFIED_SZ_018",
+        "zoneId": "SZ_018",
+        "facilityName": "중흥초등학교",
+        "riskType": "CROSSWALK",
+        "crosswalkSourceRecordId": "G00014",
+        "source": "MANUALLY_VERIFIED_MAP_GEOMETRY",
+        "geometryMethod": "ORTHOPHOTO_MANUAL_ALIGNMENT",
+        "manualVerified": true,
+        "qualityGrade": "GRADE_B",
+        "eligibleForOcclusionBatch": true,
+        "widthMeters": 6.0,
+        "lengthMeters": 25.0,
+        "directionDegrees": 150.0,
+        "centerLocalEnu": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "verifiedDate": "2026-11-08",
+        "verifiedBy": "Dongjin Kim (Yonsei Univ Severance Hospital)",
+        "overlayFile": "data/spatial/verified/feature_SZ_018_measurement_overlay.png",
+        "overlayFileSha256": "52C7FE7F18DDC78C179153501AA6D2E3EC913952AE75F7F91AED1D0786083258",
+        "license": "Korea Open Government License (KOGL) Type 1",
+        "notes": "School zone SZ_018 verified against National Crosswalk Standard G00014 and NGII/VWorld orthophoto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "datasetName": "전국횡단보도표준데이터",
+  "datasetId": "15028201",
+  "sourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+  "recordCount": 50000,
+  "fileSize": 43385830,
+  "sha256": "41B4C423FC1E013D025081531FA244E24FB5ADB0F76C263707D6BE358D54274F",
+  "downloadTimestamp": "2026-11-08T05:50:00Z"
+}

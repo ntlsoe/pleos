@@ -1,0 +1,54 @@
+{
+  "policyVersion": "1.0.0",
+  "scenarios": {
+    "STRAIGHT_SILENCE": {
+      "description": "Straight trajectory along road centerline with no conflicting occluding hazard",
+      "expectedMaxLevel": "L0",
+      "maxAllowedLevel": "L0",
+      "ttsRequestedCount": 0,
+      "requiresPhysicalRiskSurface": false
+    },
+    "ZONE_ENTRY": {
+      "description": "School zone boundary entry awareness event only",
+      "expectedMaxLevel": "L1",
+      "maxAllowedLevel": "L1",
+      "ttsRequestedCount": 0,
+      "requiresPhysicalRiskSurface": false
+    },
+    "STALE_SUPPRESSION": {
+      "description": "Suppression fail-closed due to stale perception sensor data",
+      "expectedMaxLevel": "L0",
+      "maxAllowedLevel": "L0",
+      "ttsRequestedCount": 0,
+      "requiresPhysicalRiskSurface": false
+    },
+    "LOW_QUALITY_FAIL_CLOSED": {
+      "description": "Fail-closed safety mute due to degraded perception confidence",
+      "expectedMaxLevel": "L0",
+      "maxAllowedLevel": "L0",
+      "ttsRequestedCount": 0,
+      "requiresPhysicalRiskSurface": false
+    },
+    "CROSSWALK_STRAIGHT": {
+      "description": "Straight approach toward active school crosswalk conflict zone",
+      "expectedMaxLevel": "L2_OR_L3",
+      "maxAllowedLevel": "L3",
+      "ttsRequestedCount": 1,
+      "requiresPhysicalRiskSurface": true
+    },
+    "CROSSWALK_RIGHT_TURN": {
+      "description": "Right turn trajectory turning into pedestrian crosswalk zone",
+      "expectedMaxLevel": "L2_OR_L3",
+      "maxAllowedLevel": "L3",
+      "ttsRequestedCount": 1,
+      "requiresPhysicalRiskSurface": true
+    },
+    "CROSSWALK_STOP_AND_GO": {
+      "description": "Stop and go restart approach at pedestrian crosswalk zone",
+      "expectedMaxLevel": "L1_OR_L2",
+      "maxAllowedLevel": "L2",
+      "ttsRequestedCount": 0,
+      "requiresPhysicalRiskSurface": true
+    }
+  }
+}

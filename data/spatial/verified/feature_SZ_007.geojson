@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "zoneId": "SZ_007",
+    "facilityName": "서천초등학교",
+    "crosswalkSourceRecordId": "S002",
+    "referenceAnchor": {
+      "latitude": 36.078576,
+      "longitude": 126.687789,
+      "altitudeMeters": 30.0
+    },
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU",
+    "geodeticDatum": "WGS84",
+    "qualityGrade": "GRADE_B_MANUALLY_VERIFIED_MAP_GEOMETRY"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.6878541,
+              36.0785294
+            ],
+            [
+              126.6878742,
+              36.0785901
+            ],
+            [
+              126.6877239,
+              36.0786226
+            ],
+            [
+              126.6877038,
+              36.0785619
+            ],
+            [
+              126.6878541,
+              36.0785294
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "featureId": "FEATURE_VERIFIED_SZ_007",
+        "zoneId": "SZ_007",
+        "facilityName": "서천초등학교",
+        "riskType": "CROSSWALK",
+        "crosswalkSourceRecordId": "S002",
+        "source": "MANUALLY_VERIFIED_MAP_GEOMETRY",
+        "geometryMethod": "ORTHOPHOTO_MANUAL_ALIGNMENT",
+        "manualVerified": true,
+        "qualityGrade": "GRADE_B",
+        "eligibleForOcclusionBatch": true,
+        "widthMeters": 7.0,
+        "lengthMeters": 14.0,
+        "directionDegrees": 105.0,
+        "centerLocalEnu": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "verifiedDate": "2026-11-08",
+        "verifiedBy": "Dongjin Kim (Yonsei Univ Severance Hospital)",
+        "overlayFile": "data/spatial/verified/feature_SZ_007_measurement_overlay.png",
+        "overlayFileSha256": "2CFFF4FE842603987993D9BFD72AE0B00099362F3C1CFCCDA7B44AA3481F7017",
+        "license": "Korea Open Government License (KOGL) Type 1",
+        "notes": "School zone SZ_007 verified against National Crosswalk Standard S002 and NGII/VWorld orthophoto"
+      }
+    }
+  ]
+}

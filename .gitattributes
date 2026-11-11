@@ -1,0 +1,4 @@
+/data/spatial/verified/*.geojson -text
+/data/school_zones/candidate_v1/*.geojson -text
+/data/crosswalks/candidate_v1/national_crosswalk_standard.json -text
+/data/school_zones/candidate_v1/school_zones_100.json -text

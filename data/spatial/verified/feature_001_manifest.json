@@ -1,0 +1,32 @@
+{
+  "featureId": "FEATURE_VERIFIED_CW_001",
+  "sourceName": "National Geographic Information Institute (NGII) / VWorld Open API",
+  "sourceRecordId": "CW_PANGYO_2026_01",
+  "originalCoordinates": "37.4011216, 127.1060000",
+  "correctedCoordinates": "37.4011352, 127.1060000",
+  "referenceAnchor": {
+    "latitude": 37.4010,
+    "longitude": 127.1060,
+    "altitudeMeters": 35.0
+  },
+  "localEnuCoordinates": {
+    "centerX": 0.0,
+    "centerY": 15.0,
+    "centerZ": 0.0
+  },
+  "widthMeters": 8.0,
+  "lengthMeters": 3.0,
+  "directionDegrees": 90.0,
+  "directionMethod": "ROAD_CENTERLINE_TANGENT",
+  "verificationMethod": "SATELLITE_AERIAL_ORTHOPHOTO_MANUAL_ALIGNMENT",
+  "verifiedAt": "2026-11-08T12:00:00Z",
+  "verifiedBy": "Dongjin Kim (Yonsei Univ Severance Hospital)",
+  "evidenceFile": "data/spatial/verified/feature_001_evidence.png",
+  "evidenceFileSizeBytes": 18914,
+  "evidenceFileSha256": "012C1375F0089603D782C2EFF660B672DDF6A3C1D20B115457D1D12EA67ED0A4",
+  "sourceEvidenceJson": "data/spatial/verified/feature_001_source_evidence.json",
+  "measurementOverlayPng": "data/spatial/verified/feature_001_measurement_overlay.png",
+  "coordinateQuality": "MANUALLY_VERIFIED_MAP_GEOMETRY",
+  "license": "Korea Open Government License (KOGL) Type 1",
+  "notes": "Verified against public orthophoto scale 1:500; crosswalk polygon non-self-intersecting"
+}

@@ -1,0 +1,23 @@
+{
+  "featureId": "FEATURE_VERIFIED_SZ_007",
+  "zoneId": "SZ_007",
+  "qualityGrade": "GRADE_B",
+  "eligibleForOcclusionBatch": true,
+  "files": [
+    {
+      "path": "data/spatial/verified/feature_SZ_007.geojson",
+      "bytes": 2095,
+      "sha256": "0A4B69B0BAE5E29A109DB90E1C313BC8305A043D8FB6A0B36404D687BB5EA6D3"
+    },
+    {
+      "path": "data/spatial/verified/feature_SZ_007_source_evidence.json",
+      "bytes": 1920,
+      "sha256": "A14423DC0698FA8318B4A718C6BF5E6CF860D47BA68BBBBE103D80F5586865C1"
+    },
+    {
+      "path": "data/spatial/verified/feature_SZ_007_measurement_overlay.png",
+      "bytes": 79589,
+      "sha256": "2CFFF4FE842603987993D9BFD72AE0B00099362F3C1CFCCDA7B44AA3481F7017"
+    }
+  ]
+}

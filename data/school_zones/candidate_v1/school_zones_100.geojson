@@ -1,0 +1,3106 @@
+{
+  "type": "FeatureCollection",
+  "name": "Pleos_SchoolZone_Candidates_100",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "SZ_001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7946454,
+          36.12106889
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_001",
+        "facilityType": "초등학교",
+        "facilityName": "마산초등학교",
+        "roadAddress": "충청남도 서천군 마산면 삼일로 327",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "7",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7516044,
+          36.14364383
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_002",
+        "facilityType": "초등학교",
+        "facilityName": "문산초등학교",
+        "roadAddress": "충청남도 서천군 문산면 신농길 26-29",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "4",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.646753,
+          36.102678
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_003",
+        "facilityType": "초등학교",
+        "facilityName": "부내초등학교",
+        "roadAddress": "충청남도 서천군 종천면 충서로363번길 23-1",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "8",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6020332,
+          36.14244355
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_004",
+        "facilityType": "초등학교",
+        "facilityName": "비인초등학교",
+        "roadAddress": "충청남도 서천군 비인면 비인로 192",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "7",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5206568,
+          36.15275806
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_005",
+        "facilityType": "초등학교",
+        "facilityName": "서도초등학교",
+        "roadAddress": "충청남도 서천군 서면 공암남촌길31번길 33",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "7",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5555655,
+          36.15384077
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_006",
+        "facilityType": "초등학교",
+        "facilityName": "서면초등학교",
+        "roadAddress": "충청남도 서천군 서면 선합장길 15",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "5",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6877911,
+          36.0785747
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_007",
+        "facilityType": "초등학교",
+        "facilityName": "서천초등학교",
+        "roadAddress": "충청남도 서천군 서천읍 서천로98번길 5",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "9",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6839669,
+          36.02948795
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_008",
+        "facilityType": "초등학교",
+        "facilityName": "송림초등학교",
+        "roadAddress": "충청남도 서천군 장항읍 옥도로 14",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "6",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.643927,
+          36.07302704
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_009",
+        "facilityType": "초등학교",
+        "facilityName": "송석초등학교",
+        "roadAddress": "충청남도 서천군 마서면 송신로 432",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "6",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.683421,
+          36.1550001
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_010",
+        "facilityType": "초등학교",
+        "facilityName": "오성초등학교",
+        "roadAddress": "충청남도 서천군 판교면 종판로857번길 13",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "4",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9118551,
+          35.1690608
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_011",
+        "facilityType": "초등학교",
+        "facilityName": "효동초등학교",
+        "roadAddress": "전남광주통합특별시 북구 서양로 99",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~10",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8664253,
+          35.1762012
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_012",
+        "facilityType": "초등학교",
+        "facilityName": "한울초등학교",
+        "roadAddress": "전남광주통합특별시 북구 유림로160번길 15",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8889131,
+          35.1886013
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_013",
+        "facilityType": "초등학교",
+        "facilityName": "하백초등학교",
+        "roadAddress": "전남광주통합특별시 북구 하백로5번길 10",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~8",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9276108,
+          35.1672721
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_014",
+        "facilityType": "초등학교",
+        "facilityName": "풍향초등학교",
+        "roadAddress": "전남광주통합특별시 북구 군왕로51번길 77",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8922624,
+          35.1765118
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_015",
+        "facilityType": "초등학교",
+        "facilityName": "태봉초등학교",
+        "roadAddress": "전남광주통합특별시 북구 청계로 33",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8706009,
+          35.2187205
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_016",
+        "facilityType": "초등학교",
+        "facilityName": "참미르초등학교",
+        "roadAddress": "전남광주통합특별시 북구 거진길41번길 41-6",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "10",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8856735,
+          35.2313692
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_017",
+        "facilityType": "초등학교",
+        "facilityName": "지산초등학교",
+        "roadAddress": "전남광주통합특별시 북구 하서로 637",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9135455,
+          35.160856
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_018",
+        "facilityType": "초등학교",
+        "facilityName": "중흥초등학교",
+        "roadAddress": "전남광주통합특별시 북구 경양로197번길 25",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~10",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8488705,
+          35.2324934
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_019",
+        "facilityType": "특수학교",
+        "facilityName": "은혜학교",
+        "roadAddress": "전남광주통합특별시 북구 앰코로 127",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "30",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8474198,
+          35.2328558
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_020",
+        "facilityType": "특수학교",
+        "facilityName": "광주외국인학교",
+        "roadAddress": "전남광주통합특별시 북구 삼소로 106",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "30",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8940328,
+          35.21655145
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_021",
+        "facilityType": "특수학교",
+        "facilityName": "광주선우학교",
+        "roadAddress": "전남광주통합특별시 북구 모룡대길 61",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "12",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9164129,
+          35.1861213
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_022",
+        "facilityType": "초등학교",
+        "facilityName": "문우초등학교",
+        "roadAddress": "전남광주통합특별시 북구 능안로 7",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8~10",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9251425,
+          35.1872122
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_023",
+        "facilityType": "초등학교",
+        "facilityName": "문산초등학교",
+        "roadAddress": "전남광주통합특별시 북구 문산로 66",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~22",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9227702,
+          35.1787921
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_024",
+        "facilityType": "초등학교",
+        "facilityName": "무등초등학교",
+        "roadAddress": "전남광주통합특별시 북구 면앙로 99",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8942989,
+          35.1942594
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_025",
+        "facilityType": "초등학교",
+        "facilityName": "매곡초등학교",
+        "roadAddress": "전남광주통합특별시 북구 초당로 25",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~8",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9341336,
+          35.1694787
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_026",
+        "facilityType": "초등학교",
+        "facilityName": "두암초등학교",
+        "roadAddress": "전남광주통합특별시 북구 참판로 130",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "4~8",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_027",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8841234,
+          35.1749359
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_027",
+        "facilityType": "초등학교",
+        "facilityName": "동운초등학교",
+        "roadAddress": "전남광주통합특별시 북구 북문대로8번길 21",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~10",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8676871,
+          35.18745143
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_028",
+        "facilityType": "초등학교",
+        "facilityName": "동림초등학교",
+        "roadAddress": "전남광주통합특별시 북구 동림용산로 7",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "20~30",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8732702,
+          35.1739155
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_029",
+        "facilityType": "초등학교",
+        "facilityName": "대자초등학교",
+        "roadAddress": "전남광주통합특별시 북구 대자로 5",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~12",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9256988,
+          35.1647147
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_030",
+        "facilityType": "초등학교",
+        "facilityName": "교대부설초등학교",
+        "roadAddress": "전남광주통합특별시 북구 필문대로 55",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "32",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.914035,
+          35.24649373
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_031",
+        "facilityType": "초등학교",
+        "facilityName": "광주북초등학교",
+        "roadAddress": "전남광주통합특별시 북구 하서로 985",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0021123,
+          35.1811494
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_032",
+        "facilityType": "초등학교",
+        "facilityName": "광주동초등학교충효분교",
+        "roadAddress": "전남광주통합특별시 북구 충효샘길 14-30",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "4",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9511086,
+          35.2057862
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_033",
+        "facilityType": "초등학교",
+        "facilityName": "광주동초등학교",
+        "roadAddress": "전남광주통합특별시 북구 석곡로 527",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "10",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8787895,
+          35.1800396
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_034",
+        "facilityType": "초등학교",
+        "facilityName": "경양초등학교",
+        "roadAddress": "전남광주통합특별시 북구 북문대로98번길 20",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "12",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_035",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8658109,
+          35.2106827
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_035",
+        "facilityType": "초등학교",
+        "facilityName": "건국초등학교",
+        "roadAddress": "전남광주통합특별시 북구 첨단연신로108번길 86",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8~30",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_036",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9357436,
+          35.1824267
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_036",
+        "facilityType": "초등학교",
+        "facilityName": "각화초등학교",
+        "roadAddress": "전남광주통합특별시 북구 각화대로39번길 10",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8714614,
+          35.207188
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_037",
+        "facilityType": "초등학교",
+        "facilityName": "양산초등학교",
+        "roadAddress": "전남광주통합특별시 북구 연양로 33",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8572139,
+          35.2106296
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_038",
+        "facilityType": "초등학교",
+        "facilityName": "신용초등학교",
+        "roadAddress": "전남광주통합특별시 북구 첨단연신로 232-10",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8~30",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9066536,
+          35.1561891
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_039",
+        "facilityType": "초등학교",
+        "facilityName": "수창초등학교",
+        "roadAddress": "전남광주통합특별시 북구 금남로 99",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "30",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8989497,
+          35.2123806
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_040",
+        "facilityType": "초등학교",
+        "facilityName": "서일초등학교",
+        "roadAddress": "전남광주통합특별시 북구 설죽로 590",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9043673,
+          35.1891625
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_041",
+        "facilityType": "초등학교",
+        "facilityName": "서산초등학교",
+        "roadAddress": "전남광주통합특별시 북구 우치로 263",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~10",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_042",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8995873,
+          35.1618836
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_042",
+        "facilityType": "초등학교",
+        "facilityName": "서림초등학교",
+        "roadAddress": "전남광주통합특별시 북구 서림로 113",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "12~18",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9360901,
+          35.1661375
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_043",
+        "facilityType": "초등학교",
+        "facilityName": "삼정초등학교",
+        "roadAddress": "전남광주통합특별시 북구 밤실로208번길 55",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~12",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9002512,
+          35.2006425
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_044",
+        "facilityType": "초등학교",
+        "facilityName": "삼각초등학교",
+        "roadAddress": "전남광주통합특별시 북구 송해로 21",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~30",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8814917,
+          35.2152347
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_045",
+        "facilityType": "초등학교",
+        "facilityName": "본촌초등학교",
+        "roadAddress": "전남광주통합특별시 북구 본촌택지로30번길 22",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~8",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9143541,
+          35.1810614
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_046",
+        "facilityType": "초등학교",
+        "facilityName": "문흥초등학교",
+        "roadAddress": "전남광주통합특별시 북구 면앙로 19",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_047",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9211629,
+          35.1834096
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_047",
+        "facilityType": "초등학교",
+        "facilityName": "문흥중앙초등학교",
+        "roadAddress": "전남광주통합특별시 북구 문산로 17",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_048",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9313377,
+          35.1734179
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_048",
+        "facilityType": "초등학교",
+        "facilityName": "문화초등학교",
+        "roadAddress": "전남광주통합특별시 북구 군왕로 135",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9215787,
+          35.1894417
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_049",
+        "facilityType": "초등학교",
+        "facilityName": "문정초등학교",
+        "roadAddress": "전남광주통합특별시 북구 대천로169번길 7",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8951248,
+          35.2111948
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_050",
+        "facilityType": "초등학교",
+        "facilityName": "일신초등학교",
+        "roadAddress": "전남광주통합특별시 북구 일곡마을로 187",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_051",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8933348,
+          35.2060483
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_051",
+        "facilityType": "초등학교",
+        "facilityName": "일동초등학교",
+        "roadAddress": "전남광주통합특별시 북구 일곡택지로 45",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "7~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8983981,
+          35.2073398
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_052",
+        "facilityType": "초등학교",
+        "facilityName": "일곡초등학교",
+        "roadAddress": "전남광주통합특별시 북구 설죽로 530",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "8~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8709941,
+          35.1804786
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_053",
+        "facilityType": "초등학교",
+        "facilityName": "운암초등학교",
+        "roadAddress": "전남광주통합특별시 북구 서강로 79-14",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9203797,
+          35.175953
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_054",
+        "facilityType": "초등학교",
+        "facilityName": "우산초등학교",
+        "roadAddress": "전남광주통합특별시 북구 서방로63번길 67",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~12",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8989703,
+          35.1815832
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_055",
+        "facilityType": "초등학교",
+        "facilityName": "용주초등학교",
+        "roadAddress": "전남광주통합특별시 북구 용주로 15",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~10",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_056",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.900106,
+          35.1685721
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_056",
+        "facilityType": "초등학교",
+        "facilityName": "용봉초등학교",
+        "roadAddress": "전남광주통합특별시 북구 서암대로144번길 11",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~9",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_057",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8706496,
+          35.2149568
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_057",
+        "facilityType": "초등학교",
+        "facilityName": "용두초등학교",
+        "roadAddress": "전남광주통합특별시 북구 임방울대로1041번길 25",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_058",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8992813,
+          35.1857369
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_058",
+        "facilityType": "초등학교",
+        "facilityName": "오치초등학교",
+        "roadAddress": "전남광주통합특별시 북구 설죽로 290",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~8",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9119863,
+          35.1859018
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_059",
+        "facilityType": "초등학교",
+        "facilityName": "오정초등학교",
+        "roadAddress": "전남광주통합특별시 북구 대천로 55",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~8",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8736969,
+          35.1961686
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_060",
+        "facilityType": "초등학교",
+        "facilityName": "연제초등학교",
+        "roadAddress": "전남광주통합특별시 북구 하서로229번길 47",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "7~24",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8812952,
+          35.2084203
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_061",
+        "facilityType": "초등학교",
+        "facilityName": "양지초등학교",
+        "roadAddress": "전남광주통합특별시 북구 자라봉로63번길 16",
+        "managementInstitution": "전남광주통합특별시 북구청",
+        "protectionRoadWidthRaw": "6~20",
+        "referenceDate": "2026-08-06",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_062",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7200898,
+          35.03771106
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_062",
+        "facilityType": "초등학교",
+        "facilityName": "중앙초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 대호길 22-19",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_063",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6549869,
+          34.96366649
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_063",
+        "facilityType": "초등학교",
+        "facilityName": "왕곡초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 왕곡면 나주서부로 554",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7150069,
+          34.99410862
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_064",
+        "facilityType": "초등학교",
+        "facilityName": "영산포초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 금영로 2-6",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_065",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.712539,
+          35.0069745
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_065",
+        "facilityType": "초등학교",
+        "facilityName": "영강초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 영강길 14",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_066",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7056724,
+          34.97023218
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_066",
+        "facilityType": "초등학교",
+        "facilityName": "양산초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 왕곡면 고분로 1560",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7474351,
+          34.91939775
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_067",
+        "facilityType": "초등학교",
+        "facilityName": "세지초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 세지면 동창로 111",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8061217,
+          35.03344786
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_068",
+        "facilityType": "초등학교",
+        "facilityName": "산포초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 산포면 산포로 400",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7858132,
+          35.02997766
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_069",
+        "facilityType": "초등학교",
+        "facilityName": "빛누리초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 한빛로 144",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7852543,
+          35.00903946
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_070",
+        "facilityType": "초등학교",
+        "facilityName": "빛가람초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 그린로 176",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_071",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.788129,
+          34.95765485
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_071",
+        "facilityType": "초등학교",
+        "facilityName": "봉황초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 봉황면 죽석길 31",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.658928,
+          34.91199939
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_072",
+        "facilityType": "초등학교",
+        "facilityName": "반남초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 반남면 고분로 712",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_073",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6033111,
+          35.05875512
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_073",
+        "facilityType": "초등학교",
+        "facilityName": "문평초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 문평면 문평로 15",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7793809,
+          35.01439754
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_074",
+        "facilityType": "초등학교",
+        "facilityName": "라온초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 그린로 93",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_075",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5645381,
+          34.93845086
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_075",
+        "facilityType": "초등학교",
+        "facilityName": "동강초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 동강면 동강로 595",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6401639,
+          35.01814246
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_076",
+        "facilityType": "초등학교",
+        "facilityName": "다시초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 다시면 대용길 17-16",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8265111,
+          34.95792122
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_077",
+        "facilityType": "초등학교",
+        "facilityName": "다도초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 다도면 다도로 636",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7183118,
+          35.08058696
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_078",
+        "facilityType": "초등학교",
+        "facilityName": "노안초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 노안면 노안로 165",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7512067,
+          35.06766837
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_079",
+        "facilityType": "초등학교",
+        "facilityName": "노안남초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 노안면 만호길 20-11",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8447933,
+          35.04259296
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_080",
+        "facilityType": "초등학교",
+        "facilityName": "남평초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 남평읍 남평3로 14-13",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7189183,
+          35.02776078
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_081",
+        "facilityType": "초등학교",
+        "facilityName": "나주초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 남외1길 16",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_082",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8232372,
+          35.01130369
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_082",
+        "facilityType": "초등학교",
+        "facilityName": "나주이화학교",
+        "roadAddress": "전남광주통합특별시 나주시 산포면 세남로 1354",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7277708,
+          35.04811957
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_083",
+        "facilityType": "초등학교",
+        "facilityName": "나주북초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 청암길 47-23",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7546349,
+          35.03431013
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_084",
+        "facilityType": "초등학교",
+        "facilityName": "금천초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 금천면 금영로 960",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6135047,
+          34.94158386
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_085",
+        "facilityType": "초등학교",
+        "facilityName": "공산초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 공산면 공산로 85",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7973839,
+          35.01271991
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_086",
+        "facilityType": "초등학교",
+        "facilityName": "한아름초등학교",
+        "roadAddress": "전남광주통합특별시 나주시 호수로 134",
+        "managementInstitution": "전남광주통합특별시 나주시청",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-23",
+        "regionGroup": "전남광주통합특별시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.244086,
+          36.50007105
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_087",
+        "facilityType": "초등학교",
+        "facilityName": "다빛초등학교",
+        "roadAddress": "세종특별자치시 달빛1로 7",
+        "managementInstitution": "세종특별자치시",
+        "protectionRoadWidthRaw": "9",
+        "referenceDate": "2026-09-29",
+        "regionGroup": "세종특별자치시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2551568,
+          36.51434376
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_088",
+        "facilityType": "초등학교",
+        "facilityName": "늘봄초등학교",
+        "roadAddress": "세종특별자치시 다솜1로 183",
+        "managementInstitution": "세종특별자치시",
+        "protectionRoadWidthRaw": "6~12",
+        "referenceDate": "2026-09-29",
+        "regionGroup": "세종특별자치시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2643553,
+          36.48997971
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_089",
+        "facilityType": "초등학교",
+        "facilityName": "나성초등학교",
+        "roadAddress": "세종특별자치시 갈매로 294",
+        "managementInstitution": "세종특별자치시",
+        "protectionRoadWidthRaw": "19",
+        "referenceDate": "2026-09-29",
+        "regionGroup": "세종특별자치시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2652182,
+          36.48966284
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_090",
+        "facilityType": "유치원",
+        "facilityName": "나성유치원",
+        "roadAddress": "세종특별자치시 중앙공원서로 11",
+        "managementInstitution": "세종특별자치시",
+        "protectionRoadWidthRaw": "",
+        "referenceDate": "2026-09-29",
+        "regionGroup": "세종특별자치시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3236309,
+          36.49539331
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_091",
+        "facilityType": "유치원",
+        "facilityName": "나루초등학교병설유치원",
+        "roadAddress": "세종특별자치시 집현서로 90",
+        "managementInstitution": "세종특별자치시",
+        "protectionRoadWidthRaw": "10~12",
+        "referenceDate": "2026-09-29",
+        "regionGroup": "세종특별자치시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7001922,
+          36.02056403
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_092",
+        "facilityType": "초등학교",
+        "facilityName": "장항초등학교",
+        "roadAddress": "충청남도 서천군 장항읍 성주길 6",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "8",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.690653,
+          36.01336243
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_093",
+        "facilityType": "초등학교",
+        "facilityName": "장항중앙초등학교",
+        "roadAddress": "충청남도 서천군 장항읍 장항로121번길 7",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "5",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8040055,
+          36.08595875
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_094",
+        "facilityType": "초등학교",
+        "facilityName": "한산초등학교",
+        "roadAddress": "충청남도 서천군 한산면 한마로 48",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "7",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7762402,
+          36.043235
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_095",
+        "facilityType": "초등학교",
+        "facilityName": "화양초등학교",
+        "roadAddress": "충청남도 서천군 화양면 화산로 64",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "7",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7676128,
+          36.07441578
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_096",
+        "facilityType": "초등학교",
+        "facilityName": "기산초등학교",
+        "roadAddress": "충청남도 서천군 기산면 기산길 107",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "7",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_097",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7144164,
+          36.02493185
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_097",
+        "facilityType": "초등학교",
+        "facilityName": "마동초등학교",
+        "roadAddress": "충청남도 서천군 마서면 원송로 229",
+        "managementInstitution": "충청남도 서천군청",
+        "protectionRoadWidthRaw": "7",
+        "referenceDate": "2026-08-11",
+        "regionGroup": "충청남도",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0355679,
+          35.11139656
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_098",
+        "facilityType": "유치원",
+        "facilityName": "봉래초등학교병설유치원",
+        "roadAddress": "부산광역시 중구 대영로226번길 15",
+        "managementInstitution": "부산광역시 중구청",
+        "protectionRoadWidthRaw": "4~15",
+        "referenceDate": "2026-09-08",
+        "regionGroup": "부산광역시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_099",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0298609,
+          35.10400525
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_099",
+        "facilityType": "유치원",
+        "facilityName": "광일초등학교병설유치원",
+        "roadAddress": "부산광역시 중구 중구로 74",
+        "managementInstitution": "부산광역시 중구청",
+        "protectionRoadWidthRaw": "4~5",
+        "referenceDate": "2026-09-08",
+        "regionGroup": "부산광역시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0272895,
+          35.10376001
+        ]
+      },
+      "properties": {
+        "zoneId": "SZ_100",
+        "facilityType": "어린이집",
+        "facilityName": "숲속리더유치원",
+        "roadAddress": "부산광역시 중구 책방골목길 17-12",
+        "managementInstitution": "부산광역시 중구청",
+        "protectionRoadWidthRaw": "6~8",
+        "referenceDate": "2026-09-08",
+        "regionGroup": "부산광역시",
+        "selectionStage": "CANDIDATE_100",
+        "geometryQuality": "PUBLIC_POINT_DIRECTION_UNKNOWN",
+        "crosswalkMatchStatus": "NOT_MATCHED",
+        "directionDegrees": null,
+        "polygonStatus": "NOT_BUILT",
+        "eligibleForOcclusionBatch": false,
+        "manualVerificationRequired": true,
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "crosswalkSourceUrl": "https://www.data.go.kr/data/15028201/standard.do",
+        "notes": "보호구역 중심점 후보. 횡단보도 방향각/Polygon 검증 전 가림 계산 금지."
+      }
+    }
+  ]
+}

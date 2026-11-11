@@ -1,0 +1,16 @@
+{
+  "profileId": "HYUNDAI_GRANDEUR_PUBLIC_DIMENSION_APPROX_V1",
+  "modelName": "그랜저",
+  "modelYear": "2026",
+  "bodyType": "대형 세단",
+  "lengthMm": 5035,
+  "widthMm": 1880,
+  "heightMm": 1460,
+  "wheelbaseMm": 2895,
+  "steeringSide": "LEFT_HAND_DRIVE",
+  "verificationLevel": "PUBLIC_DIMENSION_ONLY",
+  "pillarGeometryStatus": "SYNTHETIC_APPROXIMATION",
+  "eyeModelStatus": "REPRESENTATIVE_POPULATION_APPROXIMATION",
+  "sourceUrl": "https://ownersmanual.hyundai.com/docview/webhelp/doc/34c44948-b786-48ba-a17d-27b4ae35cb0f/id6db2d9a179c.html",
+  "limitations": "공식 취급설명서 외형 제원. A필러·눈 위치 근사"
+}

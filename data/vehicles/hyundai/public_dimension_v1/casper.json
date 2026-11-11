@@ -1,0 +1,16 @@
+{
+  "profileId": "HYUNDAI_CASPER_PUBLIC_DIMENSION_APPROX_V1",
+  "modelName": "캐스퍼",
+  "modelYear": "2026",
+  "bodyType": "경형 SUV",
+  "lengthMm": 3595,
+  "widthMm": 1595,
+  "heightMm": 1575,
+  "wheelbaseMm": 2400,
+  "steeringSide": "LEFT_HAND_DRIVE",
+  "verificationLevel": "PUBLIC_DIMENSION_ONLY",
+  "pillarGeometryStatus": "SYNTHETIC_APPROXIMATION",
+  "eyeModelStatus": "REPRESENTATIVE_POPULATION_APPROXIMATION",
+  "sourceUrl": "https://casper.hyundai.com/vehicles/spec",
+  "limitations": "가솔린 기본 차체. 캐스퍼 일렉트릭과 분리. A필러·눈 위치 근사"
+}

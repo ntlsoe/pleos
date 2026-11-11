@@ -1,0 +1,4 @@
+0c3da53fe4a5ea508b9fd4a0d55e552ee630ed030dee1cc9fd1fb1467929d741  apk/PleosSafetyWindowTeam_PleosSafetyWindow_release.apk
+bytes=40098338
+source_commit=7110eb42057c4404dcbc0034aecb08a65bd18721
+source_tag=v48-verified-source-baseline

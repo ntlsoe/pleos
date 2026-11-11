@@ -1,0 +1,34 @@
+{
+  "policyName": "PleosSafetyWindow_LevelPolicy_v2",
+  "version": "2.0.0",
+  "parameterClass": "EXPERIMENTAL_DEMO_ONLY",
+  "thresholds": {
+    "L3": {
+      "minPeakPossibleRatio": 0.50,
+      "minContinuousOcclusionMillis": 1500,
+      "parameterClass": "EXPERIMENTAL_DEMO_ONLY",
+      "description": "High hazard: Peak occlusion >= 0.50 OR continuous occlusion >= 1500ms"
+    },
+    "L2": {
+      "minPeakPossibleRatio": 0.25,
+      "minContinuousOcclusionMillis": 800,
+      "parameterClass": "EXPERIMENTAL_DEMO_ONLY",
+      "description": "Medium hazard: Peak occlusion >= 0.25 OR continuous occlusion >= 800ms"
+    },
+    "L1": {
+      "minPeakPossibleRatio": 0.10,
+      "minContinuousOcclusionMillis": 100,
+      "parameterClass": "EXPERIMENTAL_DEMO_ONLY",
+      "description": "Advisory awareness: Peak occlusion >= 0.10"
+    },
+    "L0": {
+      "minPeakPossibleRatio": 0.0,
+      "minContinuousOcclusionMillis": 0,
+      "parameterClass": "EXPERIMENTAL_DEMO_ONLY",
+      "description": "NO_OCCLUSION_OR_FAIL_CLOSED: No physical occlusion detected or fail-closed state"
+    }
+  },
+  "decisionAlteredDefinition": "finalLevel != baseline.finalLevel OR maxOcclusionMillis != baseline.maxOcclusionMillis",
+  "ttsTriggerRule": "continuousOcclusionMillis >= 1200",
+  "batchActuallySpokenRule": 0
+}

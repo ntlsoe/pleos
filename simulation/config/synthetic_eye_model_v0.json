@@ -1,0 +1,96 @@
+{
+  "syntheticCenter": {
+    "modelId": "SyntheticCenterProfile",
+    "source": "SYNTHETIC_TEST_ONLY",
+    "description": "Single representative eye pair at nominal driver position. For baseline testing only.",
+    "samples": [
+      {
+        "id": "center_nominal",
+        "weight": 1.0,
+        "deltaX": 0.0,
+        "deltaY": 0.0,
+        "deltaZ": 0.0,
+        "ipdMeters": 0.065
+      }
+    ]
+  },
+  "representativePopulation": {
+    "modelId": "RepresentativePopulationApproximation",
+    "source": "J941_CONCEPT_APPROXIMATION",
+    "description": "Synthetic 9-point eye distribution spanning nominal driver height and fore-aft seat travel. Not official SAE J941 proprietary tables.",
+    "samples": [
+      {
+        "id": "center_mid",
+        "weight": 0.28,
+        "deltaX": 0.00,
+        "deltaY": 0.00,
+        "deltaZ": 0.00,
+        "ipdMeters": 0.065
+      },
+      {
+        "id": "tall_aft",
+        "weight": 0.12,
+        "deltaX": -0.05,
+        "deltaY": 0.01,
+        "deltaZ": 0.05,
+        "ipdMeters": 0.067
+      },
+      {
+        "id": "short_fore",
+        "weight": 0.12,
+        "deltaX": 0.05,
+        "deltaY": -0.01,
+        "deltaZ": -0.05,
+        "ipdMeters": 0.063
+      },
+      {
+        "id": "high_mid",
+        "weight": 0.10,
+        "deltaX": 0.00,
+        "deltaY": 0.00,
+        "deltaZ": 0.04,
+        "ipdMeters": 0.065
+      },
+      {
+        "id": "low_mid",
+        "weight": 0.10,
+        "deltaX": 0.00,
+        "deltaY": 0.00,
+        "deltaZ": -0.04,
+        "ipdMeters": 0.065
+      },
+      {
+        "id": "aft_mid",
+        "weight": 0.08,
+        "deltaX": -0.04,
+        "deltaY": 0.00,
+        "deltaZ": 0.00,
+        "ipdMeters": 0.065
+      },
+      {
+        "id": "fore_mid",
+        "weight": 0.08,
+        "deltaX": 0.04,
+        "deltaY": 0.00,
+        "deltaZ": 0.00,
+        "ipdMeters": 0.065
+      },
+      {
+        "id": "left_mid",
+        "weight": 0.06,
+        "deltaX": 0.00,
+        "deltaY": 0.02,
+        "deltaZ": 0.00,
+        "ipdMeters": 0.065
+      },
+      {
+        "id": "right_mid",
+        "weight": 0.06,
+        "deltaX": 0.00,
+        "deltaY": -0.02,
+        "deltaZ": 0.00,
+        "ipdMeters": 0.065
+      }
+    ]
+  }
+}

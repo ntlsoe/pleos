@@ -1,0 +1,57 @@
+{
+  "profileId": "RepresentativeSedanV0",
+  "parameterClass": "SYNTHETIC_TEST_ONLY",
+  "notValidatedAgainstProductionVehicle": true,
+  "coordinateSystem": "ISO 8855: +X forward, +Y left, +Z up, origin at rear-axle ground projection (Z=0)",
+  "originDefinition": "Ground projection of center of rear axle (Z=0)",
+  "assumptions": [
+    "Origin placed at ground projection of rear axle center per ISO 8855 standard",
+    "Forward direction is +X, lateral driver-left direction is +Y, upward vertical direction is +Z",
+    "Driver nominal seating position placed inside cabin (X = +1.30m, Y = +0.38m, Z = +1.20m)",
+    "A-pillar 8-vertex prism base at X = 2.10m, top at X = 1.50m (sloping rearward as it ascends)",
+    "Representative parameters for algorithm validation only, not calibrated against any production vehicle"
+  ],
+  "wheelbaseMeters": 2.80,
+  "trackWidthMeters": 1.60,
+  "frontOverhangMeters": 0.85,
+  "rearOverhangMeters": 0.85,
+  "totalLengthMeters": 4.50,
+  "totalWidthMeters": 1.82,
+  "totalHeightMeters": 1.45,
+  "driverEyeNominal": {
+    "x": 1.30,
+    "y": 0.38,
+    "z": 1.20
+  },
+  "ipdMeters": 0.065,
+  "leftPillar": {
+    "side": "LEFT",
+    "base": {
+      "frontOuter": [2.15, 0.70, 0.88],
+      "frontInner": [2.17, 0.62, 0.88],
+      "rearInner":  [2.07, 0.61, 0.88],
+      "rearOuter":  [2.05, 0.69, 0.88]
+    },
+    "top": {
+      "frontOuter": [1.52, 0.58, 1.38],
+      "frontInner": [1.54, 0.50, 1.38],
+      "rearInner":  [1.44, 0.49, 1.38],
+      "rearOuter":  [1.42, 0.57, 1.38]
+    }
+  },
+  "rightPillar": {
+    "side": "RIGHT",
+    "base": {
+      "frontOuter": [2.15, -0.70, 0.88],
+      "frontInner": [2.17, -0.62, 0.88],
+      "rearInner":  [2.07, -0.61, 0.88],
+      "rearOuter":  [2.05, -0.69, 0.88]
+    },
+    "top": {
+      "frontOuter": [1.52, -0.58, 1.38],
+      "frontInner": [1.54, -0.50, 1.38],
+      "rearInner":  [1.44, -0.49, 1.38],
+      "rearOuter":  [1.42, -0.57, 1.38]
+    }
+  }
+}

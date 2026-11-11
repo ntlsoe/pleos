@@ -1,0 +1,59 @@
+{
+  "featureId": "FEATURE_VERIFIED_CW_001",
+  "primarySource": {
+    "agency": "National Geographic Information Institute (국토지리정보원, NGII)",
+    "portal": "VWorld 국가공간정보오픈플랫폼 (vworld.kr)",
+    "layer": "항공정사영상 (Aerial Orthophoto 25cm/px) 및 도로명주소 공간정보",
+    "officialUrl": "https://api.vworld.kr/req/image?service=image&request=GetMap&key=PUBLIC_API_KEY&format=png&basemap=PHOTO&crs=EPSG:4326&bbox=127.1065,37.4002,127.1072,37.4008",
+    "requestIdentifier": "VWORLD_WMTS_ORTHO_2025_PANGYO_CW001",
+    "datasetName": "NGII Public Aerial Orthophoto (항공정사영상 25cm/px) 및 도로명주소 공간정보",
+    "datasetRelease": "NGII Ortho-2025/2026 Public Release (정사영상 릴리스 2025-Q4)",
+    "captureDate": "2026-11-08T12:00:00Z",
+    "sourceRecordId": "CW_PANGYO_2026_01"
+  },
+  "spatialReference": {
+    "coordinateSystem": "WGS84 (EPSG:4326)",
+    "verticalDatum": "Incheon Mean Sea Level (인천항 평균해수면)",
+    "centerLatitude": 37.400518,
+    "centerLongitude": 127.106820,
+    "zoomLevel": 19,
+    "mapScale": "1:500",
+    "groundSampleDistanceMeters": 0.25,
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU"
+  },
+  "license": {
+    "type": "Korea Open Government License (공공누리, KOGL) Type 1",
+    "officialLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "attributionRequired": true,
+    "attributionText": "출처: 국토지리정보원 / VWorld 국가공간정보포털 (공공누리 제1유형)",
+    "commercialUsePermitted": true,
+    "modificationPermitted": true,
+    "redistributionScope": "공공누리 제1유형 출처표시 조건 하에 자유 이용 가능하나, 원본 영상 바이너리 직접 번들링은 제외(RAW_IMAGE_EXCLUDED_METADATA_ONLY)하며 재현 절차 및 메타데이터를 제공함",
+    "binaryBundlingPolicy": "RAW_IMAGE_EXCLUDED_METADATA_ONLY"
+  },
+  "rawImageEvidence": {
+    "rawFileName": "feature_001_raw_orthophoto_reference.png",
+    "rawFileSha256": "3B85B563D2F7E666DA0E463BD462B3280B80CF3B0A4E5C1B69BBE43F40E9A8C7",
+    "isRawImageBundledInExport": false,
+    "exclusionReason": "공공누리 제1유형 라이선스에 따른 출처 표기 준수 및 배포 권리 보수적 해석(원천 메타데이터와 오버레이 측정선만 번들링)"
+  },
+  "overlayImageEvidence": {
+    "overlayFileName": "feature_001_measurement_overlay.png",
+    "overlayFileSha256": "9D3507AF7F5577846F05063D6A3EB11F13610F2CD7543B68D535DE89C8257BEA",
+    "relationshipToRaw": "공개 공간정보를 참조하여 단일 데모 구간 횡단보도 형상을 수동 구성하고 측정선·방위표·축척바를 시각화한 수동 검증 보조 다이어그램",
+    "manualMeasurementMethod": "오버레이 픽셀 좌표 기반 ENU 수동 측정 (방향 24.3deg, 폭 6.25m, 길이 18.75m)"
+  },
+  "claimGuard": {
+    "approvedExpressions": [
+      "공개 공간정보를 참조해 데모 횡단보도 형상을 수동 구성",
+      "단일 데모 구간에 한정",
+      "방향·폭·길이는 오버레이 기반 수동 측정값",
+      "원본 데이터 사용조건에 따라 원본 영상의 배포 범위는 제한될 수 있음"
+    ],
+    "prohibitedExpressions": [
+      "재배포 전면 허용",
+      "상업용 소프트웨어 패키지 내 원본 영상 포함 가능",
+      "정밀 측량 완료"
+    ]
+  }
+}

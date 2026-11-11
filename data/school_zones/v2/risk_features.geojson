@@ -1,0 +1,1456 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "dataset": "Pleos Safety Window Risk Features v2",
+    "featureCount": 42,
+    "featureTypes": [
+      "CROSSWALK",
+      "FOUR_WAY_INTERSECTION",
+      "SCHOOL_GATE"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_007",
+      "properties": {
+        "featureId": "RF_CW_SZ_007",
+        "zoneId": "SZ_007",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_007",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "0A4B69B0BAE5E29A109DB90E1C313BC8305A043D8FB6A0B36404D687BB5EA6D3",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.6878541,
+              36.0785294
+            ],
+            [
+              126.6878742,
+              36.0785901
+            ],
+            [
+              126.6877239,
+              36.0786226
+            ],
+            [
+              126.6877038,
+              36.0785619
+            ],
+            [
+              126.6878541,
+              36.0785294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_007",
+      "properties": {
+        "featureId": "RF_INT_SZ_007",
+        "zoneId": "SZ_007",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_007_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "4D6149AC63886CFB641CBAAA9CFC964709405A342F43D5C0DADD2EDC1E8F0E1E",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.6876911,
+              36.0784747
+            ],
+            [
+              126.6878911,
+              36.0784747
+            ],
+            [
+              126.6878911,
+              36.0786747
+            ],
+            [
+              126.6876911,
+              36.0786747
+            ],
+            [
+              126.6876911,
+              36.0784747
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_011",
+      "properties": {
+        "featureId": "RF_CW_SZ_011",
+        "zoneId": "SZ_011",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_011",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "98822CBF0316C8F495EB09EF2010B9143672184951DAF73B91CB7E4E842A55C6",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.912347,
+              35.1686454
+            ],
+            [
+              126.9122899,
+              35.1686724
+            ],
+            [
+              126.912235,
+              35.1685946
+            ],
+            [
+              126.9122921,
+              35.1685676
+            ],
+            [
+              126.912347,
+              35.1686454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_011",
+      "properties": {
+        "featureId": "RF_INT_SZ_011",
+        "zoneId": "SZ_011",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_011_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "B183F06153938A57722D52EFF23D9B74CDCAC998921C991A7366AE694DEF0209",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9117551,
+              35.1689608
+            ],
+            [
+              126.9119551,
+              35.1689608
+            ],
+            [
+              126.9119551,
+              35.1691608
+            ],
+            [
+              126.9117551,
+              35.1691608
+            ],
+            [
+              126.9117551,
+              35.1689608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_015",
+      "properties": {
+        "featureId": "RF_CW_SZ_015",
+        "zoneId": "SZ_015",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_015",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "55680DBF73FE6620D5FB1BA0385DCB571DDCBE2D88D4FC243EC76205745F470E",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8926169,
+              35.176857
+            ],
+            [
+              126.8926499,
+              35.1769037
+            ],
+            [
+              126.8925071,
+              35.176971
+            ],
+            [
+              126.8924741,
+              35.1769243
+            ],
+            [
+              126.8926169,
+              35.176857
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_015",
+      "properties": {
+        "featureId": "RF_INT_SZ_015",
+        "zoneId": "SZ_015",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_015_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "ED8B5A2D410ACB483CF2A89D6C80F2456926FD4F795BCED734C636969438F3A5",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8921624,
+              35.1764118
+            ],
+            [
+              126.8923624,
+              35.1764118
+            ],
+            [
+              126.8923624,
+              35.1766118
+            ],
+            [
+              126.8921624,
+              35.1766118
+            ],
+            [
+              126.8921624,
+              35.1764118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_018",
+      "properties": {
+        "featureId": "RF_CW_SZ_018",
+        "zoneId": "SZ_018",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_018",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "2806F04C1A90993549A7E92F4AB31BD8B798E44AB0661EEE152358E75517E2C8",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9143421,
+              35.1610363
+            ],
+            [
+              126.9143992,
+              35.1610632
+            ],
+            [
+              126.9142619,
+              35.1612577
+            ],
+            [
+              126.9142048,
+              35.1612308
+            ],
+            [
+              126.9143421,
+              35.1610363
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_018",
+      "properties": {
+        "featureId": "RF_INT_SZ_018",
+        "zoneId": "SZ_018",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_018_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "B1516C2E9C599125CDF9A8D46F3466FA37E7A230DE6FA0BC3FCDEF397F06FB27",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9134455,
+              35.160756
+            ],
+            [
+              126.9136455,
+              35.160756
+            ],
+            [
+              126.9136455,
+              35.160956
+            ],
+            [
+              126.9134455,
+              35.160956
+            ],
+            [
+              126.9134455,
+              35.160756
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_022",
+      "properties": {
+        "featureId": "RF_INT_SZ_022",
+        "zoneId": "SZ_022",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_022_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "577632E078A9CC3AA735C1E346B7FF76C10A8A16F86F2D6BF9B3CC73447BDC1B",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9163129,
+              35.1860213
+            ],
+            [
+              126.9165129,
+              35.1860213
+            ],
+            [
+              126.9165129,
+              35.1862213
+            ],
+            [
+              126.9163129,
+              35.1862213
+            ],
+            [
+              126.9163129,
+              35.1860213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_023",
+      "properties": {
+        "featureId": "RF_CW_SZ_023",
+        "zoneId": "SZ_023",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_023",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "49EA5652203DC0B662C0279D30A1BAD5086ADB7C0A7053C4B4EFD4A5226195CB",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.925383,
+              35.187946
+            ],
+            [
+              126.9253716,
+              35.187999
+            ],
+            [
+              126.925101,
+              35.18796
+            ],
+            [
+              126.9251124,
+              35.187907
+            ],
+            [
+              126.925383,
+              35.187946
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_023",
+      "properties": {
+        "featureId": "RF_INT_SZ_023",
+        "zoneId": "SZ_023",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_023_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "2B0B0B5E94AA351D4445461A4308BC99FFCA23AADEA3B4DF9512479E36A6BBA4",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9250425,
+              35.1871122
+            ],
+            [
+              126.9252425,
+              35.1871122
+            ],
+            [
+              126.9252425,
+              35.1873122
+            ],
+            [
+              126.9250425,
+              35.1873122
+            ],
+            [
+              126.9250425,
+              35.1871122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_026",
+      "properties": {
+        "featureId": "RF_GATE_SZ_026",
+        "zoneId": "SZ_026",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_026",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "AA786278DBF358F0E5D1BDBA95450D3579C402001B8A5659E6327A3F2EF7BCD3",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9341336,
+          35.1694787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_028",
+      "properties": {
+        "featureId": "RF_INT_SZ_028",
+        "zoneId": "SZ_028",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_028_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "C01012A11664A8C2E1EC289CC306408B9EE23E275C00623AE02900B4138787A4",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8675871,
+              35.1873514
+            ],
+            [
+              126.8677871,
+              35.1873514
+            ],
+            [
+              126.8677871,
+              35.1875514
+            ],
+            [
+              126.8675871,
+              35.1875514
+            ],
+            [
+              126.8675871,
+              35.1873514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_034",
+      "properties": {
+        "featureId": "RF_GATE_SZ_034",
+        "zoneId": "SZ_034",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_034",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "197AECFD1DB7F9981CBD4DCC1F14BF1C9AB4548016A1193B6715471236A14044",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8787895,
+          35.1800396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_035",
+      "properties": {
+        "featureId": "RF_GATE_SZ_035",
+        "zoneId": "SZ_035",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_035",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "61A27F58FC5BA795463563C6DAD399E1E048FD16A504B6693E8C9DAE0E191429",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8658109,
+          35.2106827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_037",
+      "properties": {
+        "featureId": "RF_INT_SZ_037",
+        "zoneId": "SZ_037",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_037_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "28BD0579ECDA19F1FE1929F4FB3C63FD0BB62B5E16C92542E9BB180AA94AA655",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8713614,
+              35.207088
+            ],
+            [
+              126.8715614,
+              35.207088
+            ],
+            [
+              126.8715614,
+              35.207288
+            ],
+            [
+              126.8713614,
+              35.207288
+            ],
+            [
+              126.8713614,
+              35.207088
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_038",
+      "properties": {
+        "featureId": "RF_GATE_SZ_038",
+        "zoneId": "SZ_038",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_038",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "99A2EC5030390ED666914674E055C4267E7FD5FD4CB21725EA5606E478CB95A8",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8572139,
+          35.2106296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_039",
+      "properties": {
+        "featureId": "RF_GATE_SZ_039",
+        "zoneId": "SZ_039",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_039",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "061EF524F6B3A723FC27F0A80CDDD142850A54C265BC2C7E42D3B296D63EDDE2",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9066536,
+          35.1561891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_040",
+      "properties": {
+        "featureId": "RF_GATE_SZ_040",
+        "zoneId": "SZ_040",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_040",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "A648389195DAAEB241BEB5947716F33BEE4A4857BDAE961BB0E8EA0557884CC1",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8989497,
+          35.2123806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_041",
+      "properties": {
+        "featureId": "RF_GATE_SZ_041",
+        "zoneId": "SZ_041",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_041",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "072BBA888101DDB74062AAE5F671A7EF6D2ECCA25FF044496B56917F951A2B06",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9043673,
+          35.1891625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_042",
+      "properties": {
+        "featureId": "RF_INT_SZ_042",
+        "zoneId": "SZ_042",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_042_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "6943B8474B807A05D88E25E6462D1B86416199825365D37C4A12D1BA02EA3F9B",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8994873,
+              35.1617836
+            ],
+            [
+              126.8996873,
+              35.1617836
+            ],
+            [
+              126.8996873,
+              35.1619836
+            ],
+            [
+              126.8994873,
+              35.1619836
+            ],
+            [
+              126.8994873,
+              35.1617836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_043",
+      "properties": {
+        "featureId": "RF_GATE_SZ_043",
+        "zoneId": "SZ_043",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_043",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "2AFC47FF528E3A7825D26E432D9F36728D1C67D65B1B9A8F86EA26A28A6BF9B9",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9360901,
+          35.1661375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_044",
+      "properties": {
+        "featureId": "RF_CW_SZ_044",
+        "zoneId": "SZ_044",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_044",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "7BA2ACC97068E692F56F70B1E4A505690628733C636D10EA14D20C3C5186B590",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8997575,
+              35.2013218
+            ],
+            [
+              126.8997245,
+              35.2013685
+            ],
+            [
+              126.8994865,
+              35.2012562
+            ],
+            [
+              126.8995195,
+              35.2012095
+            ],
+            [
+              126.8997575,
+              35.2013218
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_044",
+      "properties": {
+        "featureId": "RF_INT_SZ_044",
+        "zoneId": "SZ_044",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_044_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "10638CF33BBE64633883B9EFFB27CECD6BC12E31344C7FBCD85AD867683EDF01",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9001512,
+              35.2005425
+            ],
+            [
+              126.9003512,
+              35.2005425
+            ],
+            [
+              126.9003512,
+              35.2007425
+            ],
+            [
+              126.9001512,
+              35.2007425
+            ],
+            [
+              126.9001512,
+              35.2005425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_046",
+      "properties": {
+        "featureId": "RF_INT_SZ_046",
+        "zoneId": "SZ_046",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_046_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "F51447972F641CF787146D32E81FBB885F20BCDBCA5DF08E66B11180EA21660B",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9142541,
+              35.1809614
+            ],
+            [
+              126.9144541,
+              35.1809614
+            ],
+            [
+              126.9144541,
+              35.1811614
+            ],
+            [
+              126.9142541,
+              35.1811614
+            ],
+            [
+              126.9142541,
+              35.1809614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_047",
+      "properties": {
+        "featureId": "RF_CW_SZ_047",
+        "zoneId": "SZ_047",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_047",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "2C1A749B0B61A88F30F0BB3A213E9C11325A5FE6E1840F4933684CC208EF821B",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9212512,
+              35.1834014
+            ],
+            [
+              126.9212341,
+              35.1834535
+            ],
+            [
+              126.9210748,
+              35.1834186
+            ],
+            [
+              126.9210919,
+              35.1833665
+            ],
+            [
+              126.9212512,
+              35.1834014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_047",
+      "properties": {
+        "featureId": "RF_INT_SZ_047",
+        "zoneId": "SZ_047",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_047_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "197E37BFFBD49A9647E8AAD887FD2F513927DC753913FE13080F2E780CCA07F2",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9210629,
+              35.1833096
+            ],
+            [
+              126.9212629,
+              35.1833096
+            ],
+            [
+              126.9212629,
+              35.1835096
+            ],
+            [
+              126.9210629,
+              35.1835096
+            ],
+            [
+              126.9210629,
+              35.1833096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_049",
+      "properties": {
+        "featureId": "RF_CW_SZ_049",
+        "zoneId": "SZ_049",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_049",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "60017443FEAB06403003D9BCB989452A14FB3A97C619A03F265AEA0E01040BF1",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.922625,
+              35.1891603
+            ],
+            [
+              126.9226716,
+              35.1891984
+            ],
+            [
+              126.922555,
+              35.1892937
+            ],
+            [
+              126.9225084,
+              35.1892556
+            ],
+            [
+              126.922625,
+              35.1891603
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_049",
+      "properties": {
+        "featureId": "RF_INT_SZ_049",
+        "zoneId": "SZ_049",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_049_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "11388D33176F5728AA24E3A38A8F3246BD4417826BB714389DE7AC36FE6E7146",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9214787,
+              35.1893417
+            ],
+            [
+              126.9216787,
+              35.1893417
+            ],
+            [
+              126.9216787,
+              35.1895417
+            ],
+            [
+              126.9214787,
+              35.1895417
+            ],
+            [
+              126.9214787,
+              35.1893417
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_050",
+      "properties": {
+        "featureId": "RF_GATE_SZ_050",
+        "zoneId": "SZ_050",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_050",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "DB95B9D9D4104BB271194E86C832C44D392D9C8915344C92CDBCA550FF29FF27",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8951248,
+          35.2111948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_051",
+      "properties": {
+        "featureId": "RF_GATE_SZ_051",
+        "zoneId": "SZ_051",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_051",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "91E21AECB5F7C91E43BE91D0AC33AA4A19B62C3A4D23D31CBEDCD855112FCFD3",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8933348,
+          35.2060483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_052",
+      "properties": {
+        "featureId": "RF_CW_SZ_052",
+        "zoneId": "SZ_052",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_052",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "BCA8BA5A675E17EFE877CDFDCD2C60DE8E68E285D1DDE2625F26894988B0F91D",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8984545,
+              35.2074121
+            ],
+            [
+              126.8983908,
+              35.2074261
+            ],
+            [
+              126.8983395,
+              35.2072699
+            ],
+            [
+              126.8984032,
+              35.2072559
+            ],
+            [
+              126.8984545,
+              35.2074121
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_052",
+      "properties": {
+        "featureId": "RF_INT_SZ_052",
+        "zoneId": "SZ_052",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_052_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "F1CAF543FEC9457AE463D25D66673A7820C767F272F1EA838DC09D4D41C3EAD6",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8982981,
+              35.2072398
+            ],
+            [
+              126.8984981,
+              35.2072398
+            ],
+            [
+              126.8984981,
+              35.2074398
+            ],
+            [
+              126.8982981,
+              35.2074398
+            ],
+            [
+              126.8982981,
+              35.2072398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_053",
+      "properties": {
+        "featureId": "RF_GATE_SZ_053",
+        "zoneId": "SZ_053",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_053",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "1CADFFF73F7BD1537B4D45E9881BF9289AF5FFC01BFB379564470D02AE48E272",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8709941,
+          35.1804786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_054",
+      "properties": {
+        "featureId": "RF_INT_SZ_054",
+        "zoneId": "SZ_054",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_054_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "3A4C65D555C554136B22E447E00F527EA9189E4EB6D9EC4593709AAE750B6536",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9202797,
+              35.175853
+            ],
+            [
+              126.9204797,
+              35.175853
+            ],
+            [
+              126.9204797,
+              35.176053
+            ],
+            [
+              126.9202797,
+              35.176053
+            ],
+            [
+              126.9202797,
+              35.175853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_055",
+      "properties": {
+        "featureId": "RF_GATE_SZ_055",
+        "zoneId": "SZ_055",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_055",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "ABB001C9BF033315422B9406001A4C2A8DD9F72655120D5E67D7898E817F6280",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8989703,
+          35.1815832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_056",
+      "properties": {
+        "featureId": "RF_GATE_SZ_056",
+        "zoneId": "SZ_056",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_056",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "5F143D5966E5F3DD7BD65626F77F065B8C880EA07FAA6BA98F0349216DC4839E",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.900106,
+          35.1685721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_058",
+      "properties": {
+        "featureId": "RF_INT_SZ_058",
+        "zoneId": "SZ_058",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_058_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "3227FE275C7145707107D3B642707A5E677C9E6BBC323F254A66225349C7F44D",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8991813,
+              35.1856369
+            ],
+            [
+              126.8993813,
+              35.1856369
+            ],
+            [
+              126.8993813,
+              35.1858369
+            ],
+            [
+              126.8991813,
+              35.1858369
+            ],
+            [
+              126.8991813,
+              35.1856369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_059",
+      "properties": {
+        "featureId": "RF_INT_SZ_059",
+        "zoneId": "SZ_059",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_059_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "4BD4BCEB62BE3B731AC01E8BA3239BCB045932B70E91C6B10C7AED88BC194E8B",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9118863,
+              35.1858018
+            ],
+            [
+              126.9120863,
+              35.1858018
+            ],
+            [
+              126.9120863,
+              35.1860018
+            ],
+            [
+              126.9118863,
+              35.1860018
+            ],
+            [
+              126.9118863,
+              35.1858018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_GATE_SZ_060",
+      "properties": {
+        "featureId": "RF_GATE_SZ_060",
+        "zoneId": "SZ_060",
+        "featureType": "SCHOOL_GATE",
+        "sourceRecordId": "GATE_REC_SZ_060",
+        "geometryEvidenceClass": "PUBLIC_POINT_FACILITY_MATCHED",
+        "evidenceSha256": "A92BAAA2EA186D699E5194C95ED9502AADDC6E3B5DC52D3878A2B838892D1D4F",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8736969,
+          35.1961686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_CW_SZ_093",
+      "properties": {
+        "featureId": "RF_CW_SZ_093",
+        "zoneId": "SZ_093",
+        "featureType": "CROSSWALK",
+        "sourceRecordId": "CW_REC_SZ_093",
+        "geometryEvidenceClass": "GRADE_B_MANUAL_VERIFIED",
+        "evidenceSha256": "E10750E55FD8DECA69DB37AA215636592E750342D805D026EEB735C516F2910B",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.6905058,
+              36.0138011
+            ],
+            [
+              126.6904666,
+              36.0138328
+            ],
+            [
+              126.6903802,
+              36.0137629
+            ],
+            [
+              126.6904194,
+              36.0137312
+            ],
+            [
+              126.6905058,
+              36.0138011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RF_INT_SZ_093",
+      "properties": {
+        "featureId": "RF_INT_SZ_093",
+        "zoneId": "SZ_093",
+        "featureType": "FOUR_WAY_INTERSECTION",
+        "sourceRecordId": "NODE_SZ_093_F01",
+        "geometryEvidenceClass": "PUBLIC_ITS_NODE_VERIFIED",
+        "evidenceSha256": "2E903D817082164D4F0F5EA9033A9F04E2E9C4F151B0700125390910563B9FE7",
+        "verifiedAt": "2026-11-08T06:00:00Z",
+        "batchEligible": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.690553,
+              36.0132624
+            ],
+            [
+              126.690753,
+              36.0132624
+            ],
+            [
+              126.690753,
+              36.0134624
+            ],
+            [
+              126.690553,
+              36.0134624
+            ],
+            [
+              126.690553,
+              36.0132624
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

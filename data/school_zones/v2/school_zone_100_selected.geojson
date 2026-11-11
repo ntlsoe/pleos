@@ -1,0 +1,4463 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "dataset": "Pleos Safety Window School Zone Dataset v2",
+    "version": "2.0.0",
+    "count": 100,
+    "selectionPrinciple": "SCHOOL_ZONE OR RISK_FEATURE (Crosswalk absence != exclusion)",
+    "accounting": {
+      "SELECTED_V2_ZONE_CONTEXT": 14,
+      "SELECTED_V2_ZONE_AND_CROSSWALK": 10,
+      "SELECTED_V2_ZONE_AND_INTERSECTION": 8,
+      "SELECTED_V2_MULTI_FEATURE": 0,
+      "HOLD_V2_GEOMETRY_PENDING": 68,
+      "HOLD_V2_ROAD_LINK_AMBIGUOUS": 0,
+      "HOLD_V2_LICENSE_REVIEW": 0,
+      "REPLACED_NO_OFFICIAL_GEOMETRY": 0,
+      "REPLACED_NO_USABLE_ROAD_CONTEXT": 0,
+      "EXCLUDED_INVALID_SOURCE": 0
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "SZ_001",
+      "properties": {
+        "zoneId": "SZ_001",
+        "policeZoneId": "PZ_2026_SZ_001",
+        "facilityName": "마산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 마산면 삼일로 327",
+        "representativeLatitude": 36.12106889,
+        "representativeLongitude": 126.7946454,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "2F3EDACD137C7E91C5F41D56BF135B43BDEA48C42F28ED34274F5792D9696F7C",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7946454,
+          36.1210689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_002",
+      "properties": {
+        "zoneId": "SZ_002",
+        "policeZoneId": "PZ_2026_SZ_002",
+        "facilityName": "문산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 문산면 신농길 26-29",
+        "representativeLatitude": 36.14364383,
+        "representativeLongitude": 126.7516044,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "EB4FB144216FC5434548E0A0A2D6E1059AFEE88F572E17303C052E9B48149BAE",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7516044,
+          36.1436438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_003",
+      "properties": {
+        "zoneId": "SZ_003",
+        "policeZoneId": "PZ_2026_SZ_003",
+        "facilityName": "부내초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 종천면 충서로363번길 23-1",
+        "representativeLatitude": 36.102678,
+        "representativeLongitude": 126.646753,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "2BC017E9FB92916C2D0083E3D78F2A1591D955337799BA3FB36E2DC87E4254CE",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.646753,
+          36.102678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_004",
+      "properties": {
+        "zoneId": "SZ_004",
+        "policeZoneId": "PZ_2026_SZ_004",
+        "facilityName": "비인초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 비인면 비인로 192",
+        "representativeLatitude": 36.14244355,
+        "representativeLongitude": 126.6020332,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "FFEAC39B4F167AC23F908640021BB99F20DB29AE28EC7B8802D7625F851888D8",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6020332,
+          36.1424436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_005",
+      "properties": {
+        "zoneId": "SZ_005",
+        "policeZoneId": "PZ_2026_SZ_005",
+        "facilityName": "서도초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 서면 공암남촌길31번길 33",
+        "representativeLatitude": 36.15275806,
+        "representativeLongitude": 126.5206568,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "EA8BE9A36635AC1CADBBF3F1D83ABCF90E684B0EF1DA1BB9B2FCD1E175C96957",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5206568,
+          36.1527581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_006",
+      "properties": {
+        "zoneId": "SZ_006",
+        "policeZoneId": "PZ_2026_SZ_006",
+        "facilityName": "서면초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 서면 선합장길 15",
+        "representativeLatitude": 36.15384077,
+        "representativeLongitude": 126.5555655,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "73B9AADB5E6EDF29174CE6C0E9B3C80C30AD8674E89470C7CFB5DF9B4DDD1EBC",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5555655,
+          36.1538408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_007",
+      "properties": {
+        "zoneId": "SZ_007",
+        "policeZoneId": "PZ_2026_SZ_007",
+        "facilityName": "서천초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 서천읍 서천로98번길 5",
+        "representativeLatitude": 36.0785747,
+        "representativeLongitude": 126.6877911,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "F48600B9C642F4D60138CCA1B191C72B14A14DFD1502296E3031603F53A54124",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_007_01",
+        "fromNodeId": "NODE_SZ_007_F01",
+        "toNodeId": "NODE_SZ_007_T01",
+        "linkGeometrySha256": "FBAD0616F9A5B39EDB390D783D9A6E99C2EC7C8CA0CA6AD05DF0B25619A8F74A",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_007_02;LINK_SZ_007_03",
+        "intersectionNodeIds": "NODE_SZ_007_F01;NODE_SZ_007_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.6859911,
+              36.0770747
+            ],
+            [
+              126.6895911,
+              36.0770747
+            ],
+            [
+              126.6895911,
+              36.0800747
+            ],
+            [
+              126.6859911,
+              36.0800747
+            ],
+            [
+              126.6859911,
+              36.0770747
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_008",
+      "properties": {
+        "zoneId": "SZ_008",
+        "policeZoneId": "PZ_2026_SZ_008",
+        "facilityName": "송림초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 장항읍 옥도로 14",
+        "representativeLatitude": 36.02948795,
+        "representativeLongitude": 126.6839669,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "2C5E1DE1597B446D7FA7612F0C7E97430386C4C4EDAA7EFDB2696B3222DD5C1A",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6839669,
+          36.0294879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_009",
+      "properties": {
+        "zoneId": "SZ_009",
+        "policeZoneId": "PZ_2026_SZ_009",
+        "facilityName": "송석초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 마서면 송신로 432",
+        "representativeLatitude": 36.07302704,
+        "representativeLongitude": 126.643927,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "2B2A3AF8B2229B404F66FE5BC15D7CD4FE5BD4B3B2ED59B31EFAD15550509E3B",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.643927,
+          36.073027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_010",
+      "properties": {
+        "zoneId": "SZ_010",
+        "policeZoneId": "PZ_2026_SZ_010",
+        "facilityName": "오성초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 판교면 종판로857번길 13",
+        "representativeLatitude": 36.1550001,
+        "representativeLongitude": 126.683421,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "407F52C04EA2E8F628A8D7857A730DC9834D8CAA957F139AC77B7BFB40CA4838",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.683421,
+          36.1550001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_011",
+      "properties": {
+        "zoneId": "SZ_011",
+        "policeZoneId": "PZ_2026_SZ_011",
+        "facilityName": "효동초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 서양로 99",
+        "representativeLatitude": 35.1690608,
+        "representativeLongitude": 126.9118551,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "27988E3D20E8DF2EB69207EBE80165BA18D1585974CFF7D5AA7FDA7F4E4D4C84",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_011_01",
+        "fromNodeId": "NODE_SZ_011_F01",
+        "toNodeId": "NODE_SZ_011_T01",
+        "linkGeometrySha256": "77B57777E470059A118B445AB7FF4F2205DC8A0A9277C80BEA3E9B87CA2AEB28",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_011_02;LINK_SZ_011_03",
+        "intersectionNodeIds": "NODE_SZ_011_F01;NODE_SZ_011_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9100551,
+              35.1675608
+            ],
+            [
+              126.9136551,
+              35.1675608
+            ],
+            [
+              126.9136551,
+              35.1705608
+            ],
+            [
+              126.9100551,
+              35.1705608
+            ],
+            [
+              126.9100551,
+              35.1675608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_012",
+      "properties": {
+        "zoneId": "SZ_012",
+        "policeZoneId": "PZ_2026_SZ_012",
+        "facilityName": "한울초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 유림로160번길 15",
+        "representativeLatitude": 35.1762012,
+        "representativeLongitude": 126.8664253,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "E4C7F78C1DCCD8D33B923CC27907C214F69A1B9B31670509E72414F340E6FC32",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8664253,
+          35.1762012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_013",
+      "properties": {
+        "zoneId": "SZ_013",
+        "policeZoneId": "PZ_2026_SZ_013",
+        "facilityName": "하백초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 하백로5번길 10",
+        "representativeLatitude": 35.1886013,
+        "representativeLongitude": 126.8889131,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "C688B921586BE6BEA77C79B332244D3CD8C7ABD0A6E5E50DF162BE14816CE018",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8889131,
+          35.1886013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_014",
+      "properties": {
+        "zoneId": "SZ_014",
+        "policeZoneId": "PZ_2026_SZ_014",
+        "facilityName": "풍향초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 군왕로51번길 77",
+        "representativeLatitude": 35.1672721,
+        "representativeLongitude": 126.9276108,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "CE2D766A84898CE4FB92302501D60DFEF5121426D2B5D9B1BEBEDE90BF11C65C",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9276108,
+          35.1672721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_015",
+      "properties": {
+        "zoneId": "SZ_015",
+        "policeZoneId": "PZ_2026_SZ_015",
+        "facilityName": "태봉초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 청계로 33",
+        "representativeLatitude": 35.1765118,
+        "representativeLongitude": 126.8922624,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "08F66663406E60BE0822FC8AD1FE1B151AA2E69FB965219B8D65962AEE0784E6",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_015_01",
+        "fromNodeId": "NODE_SZ_015_F01",
+        "toNodeId": "NODE_SZ_015_T01",
+        "linkGeometrySha256": "4B95AE4DDCA43A09A6C2DE6A9864113DBA7E1E9E52F3D2D14CB8B27C73256C90",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_015_02;LINK_SZ_015_03",
+        "intersectionNodeIds": "NODE_SZ_015_F01;NODE_SZ_015_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8904624,
+              35.1750118
+            ],
+            [
+              126.8940624,
+              35.1750118
+            ],
+            [
+              126.8940624,
+              35.1780118
+            ],
+            [
+              126.8904624,
+              35.1780118
+            ],
+            [
+              126.8904624,
+              35.1750118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_016",
+      "properties": {
+        "zoneId": "SZ_016",
+        "policeZoneId": "PZ_2026_SZ_016",
+        "facilityName": "참미르초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 거진길41번길 41-6",
+        "representativeLatitude": 35.2187205,
+        "representativeLongitude": 126.8706009,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "B97521F5FF15AF610A6CD6344D0034DAA9940EBD04EA216C5AF13BB8A4069733",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8706009,
+          35.2187205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_017",
+      "properties": {
+        "zoneId": "SZ_017",
+        "policeZoneId": "PZ_2026_SZ_017",
+        "facilityName": "지산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 하서로 637",
+        "representativeLatitude": 35.2313692,
+        "representativeLongitude": 126.8856735,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "7330CE4833A8DB452CD32C4A0158A3E7E2C6DEE20F7F462DB4E362619B2B28D8",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8856735,
+          35.2313692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_018",
+      "properties": {
+        "zoneId": "SZ_018",
+        "policeZoneId": "PZ_2026_SZ_018",
+        "facilityName": "중흥초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 경양로197번길 25",
+        "representativeLatitude": 35.160856,
+        "representativeLongitude": 126.9135455,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "0094A5128125879FFAAB013F58DF01EA1126DD3BE9F6799C45B750E78EF7314A",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_018_01",
+        "fromNodeId": "NODE_SZ_018_F01",
+        "toNodeId": "NODE_SZ_018_T01",
+        "linkGeometrySha256": "709391A154B361881353DFCE4F8C32543B71D2CEBA3A6F3FC71D3872165F8CE7",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_018_02;LINK_SZ_018_03",
+        "intersectionNodeIds": "NODE_SZ_018_F01;NODE_SZ_018_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9117455,
+              35.159356
+            ],
+            [
+              126.9153455,
+              35.159356
+            ],
+            [
+              126.9153455,
+              35.162356
+            ],
+            [
+              126.9117455,
+              35.162356
+            ],
+            [
+              126.9117455,
+              35.159356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_019",
+      "properties": {
+        "zoneId": "SZ_019",
+        "policeZoneId": "PZ_2026_SZ_019",
+        "facilityName": "은혜학교",
+        "facilityType": "특수학교",
+        "canonicalAddress": "전남광주통합특별시 북구 앰코로 127",
+        "representativeLatitude": 35.2324934,
+        "representativeLongitude": 126.8488705,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "5B4E5857BBFF6FA5116A2C4ECE4B420F382BF9A8A95EC2E9F37186735BBC4D34",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8488705,
+          35.2324934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_020",
+      "properties": {
+        "zoneId": "SZ_020",
+        "policeZoneId": "PZ_2026_SZ_020",
+        "facilityName": "광주외국인학교",
+        "facilityType": "특수학교",
+        "canonicalAddress": "전남광주통합특별시 북구 삼소로 106",
+        "representativeLatitude": 35.2328558,
+        "representativeLongitude": 126.8474198,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "B686A8B1F20DBCF7FB2F3439FBC7807E3A2FAC4E3C55B4A253296CC74EFE8A5E",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8474198,
+          35.2328558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_021",
+      "properties": {
+        "zoneId": "SZ_021",
+        "policeZoneId": "PZ_2026_SZ_021",
+        "facilityName": "광주선우학교",
+        "facilityType": "특수학교",
+        "canonicalAddress": "전남광주통합특별시 북구 모룡대길 61",
+        "representativeLatitude": 35.21655145,
+        "representativeLongitude": 126.8940328,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "3072FAA3C976A4D5DBD45475D4441B32D1E4D62C26AF616F5CC9DAB507E7846A",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8940328,
+          35.2165514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_022",
+      "properties": {
+        "zoneId": "SZ_022",
+        "policeZoneId": "PZ_2026_SZ_022",
+        "facilityName": "문우초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 능안로 7",
+        "representativeLatitude": 35.1861213,
+        "representativeLongitude": 126.9164129,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "904D07D660262D46302967FEF68C8701F93E39DF7D5AC53AD7D68D5508596667",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_022_01",
+        "fromNodeId": "NODE_SZ_022_F01",
+        "toNodeId": "NODE_SZ_022_T01",
+        "linkGeometrySha256": "3651CDC4D14EB02E957C924CDF42954DD90460F90A25742D578D63DEED659DE1",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;INTERSECTION_APPROACH;T_JUNCTION_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_INTERSECTION",
+        "exclusionOrHoldReason": "CROSSWALK_AMBIGUOUS_INTERSECTION_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "LINK_SZ_022_02",
+        "intersectionNodeIds": "NODE_SZ_022_F01;NODE_SZ_022_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9146129,
+              35.1846213
+            ],
+            [
+              126.9182129,
+              35.1846213
+            ],
+            [
+              126.9182129,
+              35.1876213
+            ],
+            [
+              126.9146129,
+              35.1876213
+            ],
+            [
+              126.9146129,
+              35.1846213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_023",
+      "properties": {
+        "zoneId": "SZ_023",
+        "policeZoneId": "PZ_2026_SZ_023",
+        "facilityName": "문산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 문산로 66",
+        "representativeLatitude": 35.1872122,
+        "representativeLongitude": 126.9251425,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "77004BB5DB2A7410112AD9C32595AF0FFEDA3330B2BF994F1639A95E1DD013A3",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_023_01",
+        "fromNodeId": "NODE_SZ_023_F01",
+        "toNodeId": "NODE_SZ_023_T01",
+        "linkGeometrySha256": "0F3ECFE8CE41348757AD662407BDED39C3EE2DE596467955C461914AD0216A4E",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_023_02;LINK_SZ_023_03",
+        "intersectionNodeIds": "NODE_SZ_023_F01;NODE_SZ_023_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9233425,
+              35.1857122
+            ],
+            [
+              126.9269425,
+              35.1857122
+            ],
+            [
+              126.9269425,
+              35.1887122
+            ],
+            [
+              126.9233425,
+              35.1887122
+            ],
+            [
+              126.9233425,
+              35.1857122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_024",
+      "properties": {
+        "zoneId": "SZ_024",
+        "policeZoneId": "PZ_2026_SZ_024",
+        "facilityName": "무등초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 면앙로 99",
+        "representativeLatitude": 35.1787921,
+        "representativeLongitude": 126.9227702,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "8A639BE0AF4B7C1AAED8BF05772F0D48CADD0B8E99696670F0659F41D4BB84EA",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9227702,
+          35.1787921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_025",
+      "properties": {
+        "zoneId": "SZ_025",
+        "policeZoneId": "PZ_2026_SZ_025",
+        "facilityName": "매곡초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 초당로 25",
+        "representativeLatitude": 35.1942594,
+        "representativeLongitude": 126.8942989,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "55316991E72BBFCC45F81CEBBC684871980E786DD16592E6B521E56507B36256",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8942989,
+          35.1942594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_026",
+      "properties": {
+        "zoneId": "SZ_026",
+        "policeZoneId": "PZ_2026_SZ_026",
+        "facilityName": "두암초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 참판로 130",
+        "representativeLatitude": 35.1694787,
+        "representativeLongitude": 126.9341336,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "0AA431D39DB3FB6CAA015338531A8C94A984EC865AD0F6A2A90D35698FCC2583",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_026_01",
+        "fromNodeId": "NODE_SZ_026_F01",
+        "toNodeId": "NODE_SZ_026_T01",
+        "linkGeometrySha256": "B4638560CB75BD46AE459F7349269A77BAC8C962BE52F69AC33678907FB2749F",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_026_F01;NODE_SZ_026_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9323336,
+              35.1679787
+            ],
+            [
+              126.9359336,
+              35.1679787
+            ],
+            [
+              126.9359336,
+              35.1709787
+            ],
+            [
+              126.9323336,
+              35.1709787
+            ],
+            [
+              126.9323336,
+              35.1679787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_027",
+      "properties": {
+        "zoneId": "SZ_027",
+        "policeZoneId": "PZ_2026_SZ_027",
+        "facilityName": "동운초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 북문대로8번길 21",
+        "representativeLatitude": 35.1749359,
+        "representativeLongitude": 126.8841234,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "0AB0F27A0563EC57CFCD2024AE4FCAFDE7B86660084CB2097DE5FE6660FAF2CE",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8841234,
+          35.1749359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_028",
+      "properties": {
+        "zoneId": "SZ_028",
+        "policeZoneId": "PZ_2026_SZ_028",
+        "facilityName": "동림초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 동림용산로 7",
+        "representativeLatitude": 35.18745143,
+        "representativeLongitude": 126.8676871,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "B90B601D50E3927FEF7F1A6E0A41ADA96C2802DE59FC54FFB885D89E809620F1",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_028_01",
+        "fromNodeId": "NODE_SZ_028_F01",
+        "toNodeId": "NODE_SZ_028_T01",
+        "linkGeometrySha256": "C5F1CEAAAB56BF6FF903FEB13C2D23F8E559280545CDEA809CDBF5C12462DE7E",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;INTERSECTION_APPROACH;T_JUNCTION_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_INTERSECTION",
+        "exclusionOrHoldReason": "CROSSWALK_AMBIGUOUS_INTERSECTION_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "LINK_SZ_028_02",
+        "intersectionNodeIds": "NODE_SZ_028_F01;NODE_SZ_028_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8658871,
+              35.1859514
+            ],
+            [
+              126.8694871,
+              35.1859514
+            ],
+            [
+              126.8694871,
+              35.1889514
+            ],
+            [
+              126.8658871,
+              35.1889514
+            ],
+            [
+              126.8658871,
+              35.1859514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_029",
+      "properties": {
+        "zoneId": "SZ_029",
+        "policeZoneId": "PZ_2026_SZ_029",
+        "facilityName": "대자초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 대자로 5",
+        "representativeLatitude": 35.1739155,
+        "representativeLongitude": 126.8732702,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "04C7A5BC05A57FD582A41B46C6F297869A1D66A298E37BA29284D9EE68B3F21B",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8732702,
+          35.1739155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_030",
+      "properties": {
+        "zoneId": "SZ_030",
+        "policeZoneId": "PZ_2026_SZ_030",
+        "facilityName": "교대부설초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 필문대로 55",
+        "representativeLatitude": 35.1647147,
+        "representativeLongitude": 126.9256988,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "DD3718A0FEDA663AD25C94BDE740661A06AD534F2A7A17FFD47449E7721D3938",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9256988,
+          35.1647147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_031",
+      "properties": {
+        "zoneId": "SZ_031",
+        "policeZoneId": "PZ_2026_SZ_031",
+        "facilityName": "광주북초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 하서로 985",
+        "representativeLatitude": 35.24649373,
+        "representativeLongitude": 126.914035,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "EEE928116540685285CD5D16080DB3A4BE949468169FCDF728AF24E9A557FDE5",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.914035,
+          35.2464937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_032",
+      "properties": {
+        "zoneId": "SZ_032",
+        "policeZoneId": "PZ_2026_SZ_032",
+        "facilityName": "광주동초등학교충효분교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 충효샘길 14-30",
+        "representativeLatitude": 35.1811494,
+        "representativeLongitude": 127.0021123,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "981C1ECA9C213203927042E3788401EEE84853316320F7F708852220EBD3B230",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0021123,
+          35.1811494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_033",
+      "properties": {
+        "zoneId": "SZ_033",
+        "policeZoneId": "PZ_2026_SZ_033",
+        "facilityName": "광주동초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 석곡로 527",
+        "representativeLatitude": 35.2057862,
+        "representativeLongitude": 126.9511086,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "059E0104A5A5047258D87223B6F856AB29563157C1DD4882BFFC8BC2404071F5",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9511086,
+          35.2057862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_034",
+      "properties": {
+        "zoneId": "SZ_034",
+        "policeZoneId": "PZ_2026_SZ_034",
+        "facilityName": "경양초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 북문대로98번길 20",
+        "representativeLatitude": 35.1800396,
+        "representativeLongitude": 126.8787895,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "6523647DF9620C9E9895C10CD4EDF8E6D6463E5C559F516AAF447955BD6CDF66",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_034_01",
+        "fromNodeId": "NODE_SZ_034_F01",
+        "toNodeId": "NODE_SZ_034_T01",
+        "linkGeometrySha256": "90E8BB9E193597327A2BA805A848F6AA8D92EC4371C5F71DE140D48E0DC13612",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_034_F01;NODE_SZ_034_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8769895,
+              35.1785396
+            ],
+            [
+              126.8805895,
+              35.1785396
+            ],
+            [
+              126.8805895,
+              35.1815396
+            ],
+            [
+              126.8769895,
+              35.1815396
+            ],
+            [
+              126.8769895,
+              35.1785396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_035",
+      "properties": {
+        "zoneId": "SZ_035",
+        "policeZoneId": "PZ_2026_SZ_035",
+        "facilityName": "건국초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 첨단연신로108번길 86",
+        "representativeLatitude": 35.2106827,
+        "representativeLongitude": 126.8658109,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "2DEF1FC107B447E26260C30801854C289C31D1BA4370735C91A90AACF290F84A",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_035_01",
+        "fromNodeId": "NODE_SZ_035_F01",
+        "toNodeId": "NODE_SZ_035_T01",
+        "linkGeometrySha256": "448CE622DD4F8ECEF08F52B541BAEC58649EAFF2070C1B76DE3A5C4F91B9AE4C",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_035_F01;NODE_SZ_035_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8640109,
+              35.2091827
+            ],
+            [
+              126.8676109,
+              35.2091827
+            ],
+            [
+              126.8676109,
+              35.2121827
+            ],
+            [
+              126.8640109,
+              35.2121827
+            ],
+            [
+              126.8640109,
+              35.2091827
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_036",
+      "properties": {
+        "zoneId": "SZ_036",
+        "policeZoneId": "PZ_2026_SZ_036",
+        "facilityName": "각화초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 각화대로39번길 10",
+        "representativeLatitude": 35.1824267,
+        "representativeLongitude": 126.9357436,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "349938229539D5F85C751F7E43E501CEA149328CD1C198B2B8DBDF3692D3E926",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9357436,
+          35.1824267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_037",
+      "properties": {
+        "zoneId": "SZ_037",
+        "policeZoneId": "PZ_2026_SZ_037",
+        "facilityName": "양산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 연양로 33",
+        "representativeLatitude": 35.207188,
+        "representativeLongitude": 126.8714614,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "01B9A804D131B92DA33CBBDDEE6C1ACF08A74358B5B5378D55523F055010FBF5",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_037_01",
+        "fromNodeId": "NODE_SZ_037_F01",
+        "toNodeId": "NODE_SZ_037_T01",
+        "linkGeometrySha256": "5C07191BAD169B458A8FA4C58F425F27098930D35702EAE221FF5DCE38BFF896",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;INTERSECTION_APPROACH;T_JUNCTION_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_INTERSECTION",
+        "exclusionOrHoldReason": "CROSSWALK_AMBIGUOUS_INTERSECTION_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "LINK_SZ_037_02",
+        "intersectionNodeIds": "NODE_SZ_037_F01;NODE_SZ_037_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8696614,
+              35.205688
+            ],
+            [
+              126.8732614,
+              35.205688
+            ],
+            [
+              126.8732614,
+              35.208688
+            ],
+            [
+              126.8696614,
+              35.208688
+            ],
+            [
+              126.8696614,
+              35.205688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_038",
+      "properties": {
+        "zoneId": "SZ_038",
+        "policeZoneId": "PZ_2026_SZ_038",
+        "facilityName": "신용초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 첨단연신로 232-10",
+        "representativeLatitude": 35.2106296,
+        "representativeLongitude": 126.8572139,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "7A68CA3167CFFC2AB7E927ABB80734C0282140E931955A843199738BB694D262",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_038_01",
+        "fromNodeId": "NODE_SZ_038_F01",
+        "toNodeId": "NODE_SZ_038_T01",
+        "linkGeometrySha256": "E1E6BA7F66CEF4DC66D3EC7986AFF0C2773F19F89A5744EC94400C4B44A47202",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_038_F01;NODE_SZ_038_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8554139,
+              35.2091296
+            ],
+            [
+              126.8590139,
+              35.2091296
+            ],
+            [
+              126.8590139,
+              35.2121296
+            ],
+            [
+              126.8554139,
+              35.2121296
+            ],
+            [
+              126.8554139,
+              35.2091296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_039",
+      "properties": {
+        "zoneId": "SZ_039",
+        "policeZoneId": "PZ_2026_SZ_039",
+        "facilityName": "수창초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 금남로 99",
+        "representativeLatitude": 35.1561891,
+        "representativeLongitude": 126.9066536,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "36D351B00A92191B7F19868454EB295F2E12F36E7EFC9AE66E4F1933CD899588",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_039_01",
+        "fromNodeId": "NODE_SZ_039_F01",
+        "toNodeId": "NODE_SZ_039_T01",
+        "linkGeometrySha256": "BF6A9E36DC0BF8AEE10E2553976BDFA33A2B6374CCFBFC296A6F70B5CD471D9E",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_039_F01;NODE_SZ_039_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9048536,
+              35.1546891
+            ],
+            [
+              126.9084536,
+              35.1546891
+            ],
+            [
+              126.9084536,
+              35.1576891
+            ],
+            [
+              126.9048536,
+              35.1576891
+            ],
+            [
+              126.9048536,
+              35.1546891
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_040",
+      "properties": {
+        "zoneId": "SZ_040",
+        "policeZoneId": "PZ_2026_SZ_040",
+        "facilityName": "서일초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 설죽로 590",
+        "representativeLatitude": 35.2123806,
+        "representativeLongitude": 126.8989497,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "3A68617504B09F8D4E1029551B5068167D4FA8B6FB29A32052EBD7802980079D",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_040_01",
+        "fromNodeId": "NODE_SZ_040_F01",
+        "toNodeId": "NODE_SZ_040_T01",
+        "linkGeometrySha256": "AA3AA2455AB809D8CBACC76C6C1CD028A23681C1E27D10A31A4521382B3D5355",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_040_F01;NODE_SZ_040_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8971497,
+              35.2108806
+            ],
+            [
+              126.9007497,
+              35.2108806
+            ],
+            [
+              126.9007497,
+              35.2138806
+            ],
+            [
+              126.8971497,
+              35.2138806
+            ],
+            [
+              126.8971497,
+              35.2108806
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_041",
+      "properties": {
+        "zoneId": "SZ_041",
+        "policeZoneId": "PZ_2026_SZ_041",
+        "facilityName": "서산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 우치로 263",
+        "representativeLatitude": 35.1891625,
+        "representativeLongitude": 126.9043673,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "43F785332DEAC0FE5FFB4908BF922C4B7F43D44746C3032D2AEC433D82D0DE10",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_041_01",
+        "fromNodeId": "NODE_SZ_041_F01",
+        "toNodeId": "NODE_SZ_041_T01",
+        "linkGeometrySha256": "E8320D041D950BD1A5EB117267F274031EFCA95863240281712545DCB2050E86",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_041_F01;NODE_SZ_041_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9025673,
+              35.1876625
+            ],
+            [
+              126.9061673,
+              35.1876625
+            ],
+            [
+              126.9061673,
+              35.1906625
+            ],
+            [
+              126.9025673,
+              35.1906625
+            ],
+            [
+              126.9025673,
+              35.1876625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_042",
+      "properties": {
+        "zoneId": "SZ_042",
+        "policeZoneId": "PZ_2026_SZ_042",
+        "facilityName": "서림초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 서림로 113",
+        "representativeLatitude": 35.1618836,
+        "representativeLongitude": 126.8995873,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "87165EDBFB4DF188B33DBE046EB4F65CDAFC1875C2AEF52A5E564EF4962749A9",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_042_01",
+        "fromNodeId": "NODE_SZ_042_F01",
+        "toNodeId": "NODE_SZ_042_T01",
+        "linkGeometrySha256": "4C02210BCDED751A2B6B686E9256CF4B9A02E68C83A4E6C24287396DA5640B3A",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;INTERSECTION_APPROACH;T_JUNCTION_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_INTERSECTION",
+        "exclusionOrHoldReason": "CROSSWALK_AMBIGUOUS_INTERSECTION_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "LINK_SZ_042_02",
+        "intersectionNodeIds": "NODE_SZ_042_F01;NODE_SZ_042_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8977873,
+              35.1603836
+            ],
+            [
+              126.9013873,
+              35.1603836
+            ],
+            [
+              126.9013873,
+              35.1633836
+            ],
+            [
+              126.8977873,
+              35.1633836
+            ],
+            [
+              126.8977873,
+              35.1603836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_043",
+      "properties": {
+        "zoneId": "SZ_043",
+        "policeZoneId": "PZ_2026_SZ_043",
+        "facilityName": "삼정초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 밤실로208번길 55",
+        "representativeLatitude": 35.1661375,
+        "representativeLongitude": 126.9360901,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "CD2725CD46BB8EB66CAFE7854184F5BFCE0D016DB5FC0C92FC01E4A004FAB29A",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_043_01",
+        "fromNodeId": "NODE_SZ_043_F01",
+        "toNodeId": "NODE_SZ_043_T01",
+        "linkGeometrySha256": "88EABAF80725240DB85EE80E94F44362490FE35C834327D0F3E879D2B9D3CB4D",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_043_F01;NODE_SZ_043_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9342901,
+              35.1646375
+            ],
+            [
+              126.9378901,
+              35.1646375
+            ],
+            [
+              126.9378901,
+              35.1676375
+            ],
+            [
+              126.9342901,
+              35.1676375
+            ],
+            [
+              126.9342901,
+              35.1646375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_044",
+      "properties": {
+        "zoneId": "SZ_044",
+        "policeZoneId": "PZ_2026_SZ_044",
+        "facilityName": "삼각초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 송해로 21",
+        "representativeLatitude": 35.2006425,
+        "representativeLongitude": 126.9002512,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "4F26EEA7FEA1DD600779C813705DFAFA0C37580574188F3519F1E1E4C4E39088",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_044_01",
+        "fromNodeId": "NODE_SZ_044_F01",
+        "toNodeId": "NODE_SZ_044_T01",
+        "linkGeometrySha256": "F7A5050CF6E3154FEEEA8624F60A666B8C2CD1342FEA1977A109CA95014FC089",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_044_02;LINK_SZ_044_03",
+        "intersectionNodeIds": "NODE_SZ_044_F01;NODE_SZ_044_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8984512,
+              35.1991425
+            ],
+            [
+              126.9020512,
+              35.1991425
+            ],
+            [
+              126.9020512,
+              35.2021425
+            ],
+            [
+              126.8984512,
+              35.2021425
+            ],
+            [
+              126.8984512,
+              35.1991425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_045",
+      "properties": {
+        "zoneId": "SZ_045",
+        "policeZoneId": "PZ_2026_SZ_045",
+        "facilityName": "본촌초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 본촌택지로30번길 22",
+        "representativeLatitude": 35.2152347,
+        "representativeLongitude": 126.8814917,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "6274ACFD12645C8E0D9752A4CA2C5BA9E5715E8BE483BE59D74682F4C8364CD3",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8814917,
+          35.2152347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_046",
+      "properties": {
+        "zoneId": "SZ_046",
+        "policeZoneId": "PZ_2026_SZ_046",
+        "facilityName": "문흥초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 면앙로 19",
+        "representativeLatitude": 35.1810614,
+        "representativeLongitude": 126.9143541,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "B1DC2ED6B64A9E1EC9F2C2DFCE3C3F68E2964A1B5A9CDFEBD689AB29BBDF1124",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_046_01",
+        "fromNodeId": "NODE_SZ_046_F01",
+        "toNodeId": "NODE_SZ_046_T01",
+        "linkGeometrySha256": "2571227136055823EDC88A6EFC0E5D5F8948AF2883ADA1AB5D9296AB515A23F3",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;INTERSECTION_APPROACH;T_JUNCTION_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_INTERSECTION",
+        "exclusionOrHoldReason": "CROSSWALK_AMBIGUOUS_INTERSECTION_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "LINK_SZ_046_02",
+        "intersectionNodeIds": "NODE_SZ_046_F01;NODE_SZ_046_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9125541,
+              35.1795614
+            ],
+            [
+              126.9161541,
+              35.1795614
+            ],
+            [
+              126.9161541,
+              35.1825614
+            ],
+            [
+              126.9125541,
+              35.1825614
+            ],
+            [
+              126.9125541,
+              35.1795614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_047",
+      "properties": {
+        "zoneId": "SZ_047",
+        "policeZoneId": "PZ_2026_SZ_047",
+        "facilityName": "문흥중앙초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 문산로 17",
+        "representativeLatitude": 35.1834096,
+        "representativeLongitude": 126.9211629,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "E94C3CCD36F3BD803A3BF216F5568226CF4EDAFD5C6E93B2C8D87E7EF27C8124",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_047_01",
+        "fromNodeId": "NODE_SZ_047_F01",
+        "toNodeId": "NODE_SZ_047_T01",
+        "linkGeometrySha256": "66621FEA6BEDF88547D0ECBD7078C1A708D8883157F1B57CDF3CEA5407EA4E0A",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_047_02;LINK_SZ_047_03",
+        "intersectionNodeIds": "NODE_SZ_047_F01;NODE_SZ_047_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9193629,
+              35.1819096
+            ],
+            [
+              126.9229629,
+              35.1819096
+            ],
+            [
+              126.9229629,
+              35.1849096
+            ],
+            [
+              126.9193629,
+              35.1849096
+            ],
+            [
+              126.9193629,
+              35.1819096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_048",
+      "properties": {
+        "zoneId": "SZ_048",
+        "policeZoneId": "PZ_2026_SZ_048",
+        "facilityName": "문화초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 군왕로 135",
+        "representativeLatitude": 35.1734179,
+        "representativeLongitude": 126.9313377,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "D098CB5F384F3D3F970DAE6C6705E3F526DFAB75C3BC2AB17DD8ACA2A958CA17",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9313377,
+          35.1734179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_049",
+      "properties": {
+        "zoneId": "SZ_049",
+        "policeZoneId": "PZ_2026_SZ_049",
+        "facilityName": "문정초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 대천로169번길 7",
+        "representativeLatitude": 35.1894417,
+        "representativeLongitude": 126.9215787,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "CB02AB7D1815C3472ED9F34E84B9E62DAFEC63AEBE33BEEB47589B868577FAF5",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_049_01",
+        "fromNodeId": "NODE_SZ_049_F01",
+        "toNodeId": "NODE_SZ_049_T01",
+        "linkGeometrySha256": "0BF82F9AA3AACB8012E595EA2EC5B8228B6060972A2B75CCC6450E36758A8D46",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_049_02;LINK_SZ_049_03",
+        "intersectionNodeIds": "NODE_SZ_049_F01;NODE_SZ_049_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9197787,
+              35.1879417
+            ],
+            [
+              126.9233787,
+              35.1879417
+            ],
+            [
+              126.9233787,
+              35.1909417
+            ],
+            [
+              126.9197787,
+              35.1909417
+            ],
+            [
+              126.9197787,
+              35.1879417
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_050",
+      "properties": {
+        "zoneId": "SZ_050",
+        "policeZoneId": "PZ_2026_SZ_050",
+        "facilityName": "일신초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 일곡마을로 187",
+        "representativeLatitude": 35.2111948,
+        "representativeLongitude": 126.8951248,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "CC42F28C3DF767F4B5A095327DEF2E1DF5C98CDE9C44B07208188F02DDE59E7B",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_050_01",
+        "fromNodeId": "NODE_SZ_050_F01",
+        "toNodeId": "NODE_SZ_050_T01",
+        "linkGeometrySha256": "B77615D0197F6EFD6412B0843FF91BBFD886A83B0EB55B3695EBD2C053C0D477",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_050_F01;NODE_SZ_050_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8933248,
+              35.2096948
+            ],
+            [
+              126.8969248,
+              35.2096948
+            ],
+            [
+              126.8969248,
+              35.2126948
+            ],
+            [
+              126.8933248,
+              35.2126948
+            ],
+            [
+              126.8933248,
+              35.2096948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_051",
+      "properties": {
+        "zoneId": "SZ_051",
+        "policeZoneId": "PZ_2026_SZ_051",
+        "facilityName": "일동초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 일곡택지로 45",
+        "representativeLatitude": 35.2060483,
+        "representativeLongitude": 126.8933348,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "E8320609D3FC1DA9B0CE8CF4F6DBBB147FD445175E0282412E5B2613B259559E",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_051_01",
+        "fromNodeId": "NODE_SZ_051_F01",
+        "toNodeId": "NODE_SZ_051_T01",
+        "linkGeometrySha256": "DDA66B5E3AE820B277C267F892C2C4AC8BC490A82447A4C1E8E6069CA3684A06",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_051_F01;NODE_SZ_051_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8915348,
+              35.2045483
+            ],
+            [
+              126.8951348,
+              35.2045483
+            ],
+            [
+              126.8951348,
+              35.2075483
+            ],
+            [
+              126.8915348,
+              35.2075483
+            ],
+            [
+              126.8915348,
+              35.2045483
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_052",
+      "properties": {
+        "zoneId": "SZ_052",
+        "policeZoneId": "PZ_2026_SZ_052",
+        "facilityName": "일곡초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 설죽로 530",
+        "representativeLatitude": 35.2073398,
+        "representativeLongitude": 126.8983981,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "85354202DA59C8E8DACCA1C7212E28300CD1620759AAB82AADF0B5978AFA82CC",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_052_01",
+        "fromNodeId": "NODE_SZ_052_F01",
+        "toNodeId": "NODE_SZ_052_T01",
+        "linkGeometrySha256": "CA462A6E8BE22F865CFD681CA2205855537DC1195F344BEEA1FCADC9D961754C",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_052_02;LINK_SZ_052_03",
+        "intersectionNodeIds": "NODE_SZ_052_F01;NODE_SZ_052_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8965981,
+              35.2058398
+            ],
+            [
+              126.9001981,
+              35.2058398
+            ],
+            [
+              126.9001981,
+              35.2088398
+            ],
+            [
+              126.8965981,
+              35.2088398
+            ],
+            [
+              126.8965981,
+              35.2058398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_053",
+      "properties": {
+        "zoneId": "SZ_053",
+        "policeZoneId": "PZ_2026_SZ_053",
+        "facilityName": "운암초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 서강로 79-14",
+        "representativeLatitude": 35.1804786,
+        "representativeLongitude": 126.8709941,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "AF5CBFFEC85CFD874471887063F4ADF610C7FE29DE3EEB5D7281F13E8D8235EF",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_053_01",
+        "fromNodeId": "NODE_SZ_053_F01",
+        "toNodeId": "NODE_SZ_053_T01",
+        "linkGeometrySha256": "4DE2E620A79F340D3D60E2E1319C93584C90987DF29F6C76373FA0D9C6A66AC7",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_053_F01;NODE_SZ_053_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8691941,
+              35.1789786
+            ],
+            [
+              126.8727941,
+              35.1789786
+            ],
+            [
+              126.8727941,
+              35.1819786
+            ],
+            [
+              126.8691941,
+              35.1819786
+            ],
+            [
+              126.8691941,
+              35.1789786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_054",
+      "properties": {
+        "zoneId": "SZ_054",
+        "policeZoneId": "PZ_2026_SZ_054",
+        "facilityName": "우산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 서방로63번길 67",
+        "representativeLatitude": 35.175953,
+        "representativeLongitude": 126.9203797,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "79ACE1C571BBC8E5464EA69F620966ADB68618575173726D392CDFD8451F28F2",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_054_01",
+        "fromNodeId": "NODE_SZ_054_F01",
+        "toNodeId": "NODE_SZ_054_T01",
+        "linkGeometrySha256": "9D66F4472D02DDA157837530E60F9D86104427185619736836ED3DEE9A7E91A4",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;INTERSECTION_APPROACH;T_JUNCTION_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_INTERSECTION",
+        "exclusionOrHoldReason": "CROSSWALK_AMBIGUOUS_INTERSECTION_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "LINK_SZ_054_02",
+        "intersectionNodeIds": "NODE_SZ_054_F01;NODE_SZ_054_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9185797,
+              35.174453
+            ],
+            [
+              126.9221797,
+              35.174453
+            ],
+            [
+              126.9221797,
+              35.177453
+            ],
+            [
+              126.9185797,
+              35.177453
+            ],
+            [
+              126.9185797,
+              35.174453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_055",
+      "properties": {
+        "zoneId": "SZ_055",
+        "policeZoneId": "PZ_2026_SZ_055",
+        "facilityName": "용주초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 용주로 15",
+        "representativeLatitude": 35.1815832,
+        "representativeLongitude": 126.8989703,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "B461051F594431E2B610546D900A126583D75903804D653973C21755FEF82D0D",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_055_01",
+        "fromNodeId": "NODE_SZ_055_F01",
+        "toNodeId": "NODE_SZ_055_T01",
+        "linkGeometrySha256": "FAB4B5ED4B886878D47F3CAA1E851CD146DB151DE19A636E6F6F86F9717CA7CF",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_055_F01;NODE_SZ_055_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8971703,
+              35.1800832
+            ],
+            [
+              126.9007703,
+              35.1800832
+            ],
+            [
+              126.9007703,
+              35.1830832
+            ],
+            [
+              126.8971703,
+              35.1830832
+            ],
+            [
+              126.8971703,
+              35.1800832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_056",
+      "properties": {
+        "zoneId": "SZ_056",
+        "policeZoneId": "PZ_2026_SZ_056",
+        "facilityName": "용봉초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 서암대로144번길 11",
+        "representativeLatitude": 35.1685721,
+        "representativeLongitude": 126.900106,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "405CE6BA7A3523CD7AE9C1E96FCF1004807FF35839E97B3E9A1C92FA74B29A60",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_056_01",
+        "fromNodeId": "NODE_SZ_056_F01",
+        "toNodeId": "NODE_SZ_056_T01",
+        "linkGeometrySha256": "285E2B34A86D3E801432B3CCAFA23529FA1F23F29CA88500C162314928B3F006",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_056_F01;NODE_SZ_056_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.898306,
+              35.1670721
+            ],
+            [
+              126.901906,
+              35.1670721
+            ],
+            [
+              126.901906,
+              35.1700721
+            ],
+            [
+              126.898306,
+              35.1700721
+            ],
+            [
+              126.898306,
+              35.1670721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_057",
+      "properties": {
+        "zoneId": "SZ_057",
+        "policeZoneId": "PZ_2026_SZ_057",
+        "facilityName": "용두초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 임방울대로1041번길 25",
+        "representativeLatitude": 35.2149568,
+        "representativeLongitude": 126.8706496,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "F5C2355C48CE592D9E414DEE7645BAB60B942B0C05162292B76A033BF6FA43BF",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8706496,
+          35.2149568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_058",
+      "properties": {
+        "zoneId": "SZ_058",
+        "policeZoneId": "PZ_2026_SZ_058",
+        "facilityName": "오치초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 설죽로 290",
+        "representativeLatitude": 35.1857369,
+        "representativeLongitude": 126.8992813,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "6DA3E6ADB4291E4EADB744A183B43D14FA3398DFD71C8EAF0EACEC734A8D32A0",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_058_01",
+        "fromNodeId": "NODE_SZ_058_F01",
+        "toNodeId": "NODE_SZ_058_T01",
+        "linkGeometrySha256": "E5FC75FF04D6CB5C6928F6B5B9FF345C9781768EF56C60B79C955E70095EEFC7",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;INTERSECTION_APPROACH;T_JUNCTION_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_INTERSECTION",
+        "exclusionOrHoldReason": "CROSSWALK_AMBIGUOUS_INTERSECTION_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "LINK_SZ_058_02",
+        "intersectionNodeIds": "NODE_SZ_058_F01;NODE_SZ_058_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8974813,
+              35.1842369
+            ],
+            [
+              126.9010813,
+              35.1842369
+            ],
+            [
+              126.9010813,
+              35.1872369
+            ],
+            [
+              126.8974813,
+              35.1872369
+            ],
+            [
+              126.8974813,
+              35.1842369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_059",
+      "properties": {
+        "zoneId": "SZ_059",
+        "policeZoneId": "PZ_2026_SZ_059",
+        "facilityName": "오정초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 대천로 55",
+        "representativeLatitude": 35.1859018,
+        "representativeLongitude": 126.9119863,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "A5C0FE1230A34788749A89DDA6B0315DD734EF7D8E13AF1712EA253C89705AA7",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_059_01",
+        "fromNodeId": "NODE_SZ_059_F01",
+        "toNodeId": "NODE_SZ_059_T01",
+        "linkGeometrySha256": "4582E7AFB754A9FE58B3C76693F40E52ED6886C474E1E5BC775B1B2D3F66476A",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;INTERSECTION_APPROACH;T_JUNCTION_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_INTERSECTION",
+        "exclusionOrHoldReason": "CROSSWALK_AMBIGUOUS_INTERSECTION_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "LINK_SZ_059_02",
+        "intersectionNodeIds": "NODE_SZ_059_F01;NODE_SZ_059_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.9101863,
+              35.1844018
+            ],
+            [
+              126.9137863,
+              35.1844018
+            ],
+            [
+              126.9137863,
+              35.1874018
+            ],
+            [
+              126.9101863,
+              35.1874018
+            ],
+            [
+              126.9101863,
+              35.1844018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_060",
+      "properties": {
+        "zoneId": "SZ_060",
+        "policeZoneId": "PZ_2026_SZ_060",
+        "facilityName": "연제초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 하서로229번길 47",
+        "representativeLatitude": 35.1961686,
+        "representativeLongitude": 126.8736969,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "096DB25A976437616DFA208E22826FE473BD69ACC31D83D0B9EDAFD6FD62FCE2",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_060_01",
+        "fromNodeId": "NODE_SZ_060_F01",
+        "toNodeId": "NODE_SZ_060_T01",
+        "linkGeometrySha256": "F8878D5B358C46F66C4DF80E8BA0D24CC0C53FA3713F41B009DABCDB70D6DB5B",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;SCHOOL_GATE_DEPARTURE",
+        "eligibilityStatus": "SELECTED_V2_ZONE_CONTEXT",
+        "exclusionOrHoldReason": "CROSSWALK_POLYGON_PENDING_ZONE_CONTEXT_SELECTED_NO_BATCH",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_LOCAL",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NODE_SZ_060_F01;NODE_SZ_060_T01",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.8718969,
+              35.1946686
+            ],
+            [
+              126.8754969,
+              35.1946686
+            ],
+            [
+              126.8754969,
+              35.1976686
+            ],
+            [
+              126.8718969,
+              35.1976686
+            ],
+            [
+              126.8718969,
+              35.1946686
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_061",
+      "properties": {
+        "zoneId": "SZ_061",
+        "policeZoneId": "PZ_2026_SZ_061",
+        "facilityName": "양지초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 북구 자라봉로63번길 16",
+        "representativeLatitude": 35.2084203,
+        "representativeLongitude": 126.8812952,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "31FCE12B98CE5F853459DAED0F1525D5CA0273D01892397FE12CC0AB288FF376",
+        "sourceReferenceDate": "2026-08-06",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8812952,
+          35.2084203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_062",
+      "properties": {
+        "zoneId": "SZ_062",
+        "policeZoneId": "PZ_2026_SZ_062",
+        "facilityName": "중앙초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 대호길 22-19",
+        "representativeLatitude": 35.03771106,
+        "representativeLongitude": 126.7200898,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "F26966188AFCC530C5F6555B2C6962ABECC58B23F04253DCD9213857D983A5D1",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7200898,
+          35.0377111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_063",
+      "properties": {
+        "zoneId": "SZ_063",
+        "policeZoneId": "PZ_2026_SZ_063",
+        "facilityName": "왕곡초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 왕곡면 나주서부로 554",
+        "representativeLatitude": 34.96366649,
+        "representativeLongitude": 126.6549869,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "47353AAA994A3781610E0653512A952E3CBE7A1B67741F97BE5CF765BD98E8D2",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6549869,
+          34.9636665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_064",
+      "properties": {
+        "zoneId": "SZ_064",
+        "policeZoneId": "PZ_2026_SZ_064",
+        "facilityName": "영산포초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 금영로 2-6",
+        "representativeLatitude": 34.99410862,
+        "representativeLongitude": 126.7150069,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "E86820FA8A5CAC2BF598300909E39119E4140DB42C8860EE5C1656830FB1D20C",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7150069,
+          34.9941086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_065",
+      "properties": {
+        "zoneId": "SZ_065",
+        "policeZoneId": "PZ_2026_SZ_065",
+        "facilityName": "영강초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 영강길 14",
+        "representativeLatitude": 35.0069745,
+        "representativeLongitude": 126.712539,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "C1936EFA73F3C72755A58E3D089E651F2F7BB9CAC0FC3C43310522C4D14757E5",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.712539,
+          35.0069745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_066",
+      "properties": {
+        "zoneId": "SZ_066",
+        "policeZoneId": "PZ_2026_SZ_066",
+        "facilityName": "양산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 왕곡면 고분로 1560",
+        "representativeLatitude": 34.97023218,
+        "representativeLongitude": 126.7056724,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "D33CE14EBF7D0D26641C3064B6D5A397CA740AE68058D29D3FB70DDDEE53813D",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7056724,
+          34.9702322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_067",
+      "properties": {
+        "zoneId": "SZ_067",
+        "policeZoneId": "PZ_2026_SZ_067",
+        "facilityName": "세지초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 세지면 동창로 111",
+        "representativeLatitude": 34.91939775,
+        "representativeLongitude": 126.7474351,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "BC5C3E863E60A42C90FDEB22D411631E38079BA4F5450E1D78278163C0CCC3CE",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7474351,
+          34.9193978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_068",
+      "properties": {
+        "zoneId": "SZ_068",
+        "policeZoneId": "PZ_2026_SZ_068",
+        "facilityName": "산포초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 산포면 산포로 400",
+        "representativeLatitude": 35.03344786,
+        "representativeLongitude": 126.8061217,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "668E8DC335348585FC78D150E87623B89AF25AF35A5D20F783950EC26AE3C431",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8061217,
+          35.0334479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_069",
+      "properties": {
+        "zoneId": "SZ_069",
+        "policeZoneId": "PZ_2026_SZ_069",
+        "facilityName": "빛누리초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 한빛로 144",
+        "representativeLatitude": 35.02997766,
+        "representativeLongitude": 126.7858132,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "B1743A042DBBD74A24C9D489217869A2D2BCCB3C1B8C5DC3AA72F74FF18CEC6C",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7858132,
+          35.0299777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_070",
+      "properties": {
+        "zoneId": "SZ_070",
+        "policeZoneId": "PZ_2026_SZ_070",
+        "facilityName": "빛가람초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 그린로 176",
+        "representativeLatitude": 35.00903946,
+        "representativeLongitude": 126.7852543,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "86A14408DADD3EA4B623FB8FDB79273A2EE2E5CE69A25F8F2177DF79B894947E",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7852543,
+          35.0090395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_071",
+      "properties": {
+        "zoneId": "SZ_071",
+        "policeZoneId": "PZ_2026_SZ_071",
+        "facilityName": "봉황초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 봉황면 죽석길 31",
+        "representativeLatitude": 34.95765485,
+        "representativeLongitude": 126.788129,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "1328EED9854C4C836387E7ADCC1C1301C9EFC553F3954C4B67991A46333EACB8",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.788129,
+          34.9576548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_072",
+      "properties": {
+        "zoneId": "SZ_072",
+        "policeZoneId": "PZ_2026_SZ_072",
+        "facilityName": "반남초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 반남면 고분로 712",
+        "representativeLatitude": 34.91199939,
+        "representativeLongitude": 126.658928,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "93968738A1A0080980B2D7717E516B86BA5F3DDA25A8A4F0E435889B5E2A6806",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.658928,
+          34.9119994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_073",
+      "properties": {
+        "zoneId": "SZ_073",
+        "policeZoneId": "PZ_2026_SZ_073",
+        "facilityName": "문평초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 문평면 문평로 15",
+        "representativeLatitude": 35.05875512,
+        "representativeLongitude": 126.6033111,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "E512D4E48B6F164C4A7BE5933C53692162FADD060CBC344D6F9CA47B25442777",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6033111,
+          35.0587551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_074",
+      "properties": {
+        "zoneId": "SZ_074",
+        "policeZoneId": "PZ_2026_SZ_074",
+        "facilityName": "라온초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 그린로 93",
+        "representativeLatitude": 35.01439754,
+        "representativeLongitude": 126.7793809,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "02AEC2BBA37405726F7D160D1282918CAA2DF4D46B675705C64CC3195ABF7CFD",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7793809,
+          35.0143975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_075",
+      "properties": {
+        "zoneId": "SZ_075",
+        "policeZoneId": "PZ_2026_SZ_075",
+        "facilityName": "동강초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 동강면 동강로 595",
+        "representativeLatitude": 34.93845086,
+        "representativeLongitude": 126.5645381,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "5C00ECA4D25E60DCB4BB80ED001AB58F63C3A6708C4E7FB002BA1D96A4091FBA",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5645381,
+          34.9384509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_076",
+      "properties": {
+        "zoneId": "SZ_076",
+        "policeZoneId": "PZ_2026_SZ_076",
+        "facilityName": "다시초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 다시면 대용길 17-16",
+        "representativeLatitude": 35.01814246,
+        "representativeLongitude": 126.6401639,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "FCBD9C55ED6876D5A4BB0826CE05A0BA3C16A03D6B5DF9AC97E6C9EC3210FF08",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6401639,
+          35.0181425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_077",
+      "properties": {
+        "zoneId": "SZ_077",
+        "policeZoneId": "PZ_2026_SZ_077",
+        "facilityName": "다도초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 다도면 다도로 636",
+        "representativeLatitude": 34.95792122,
+        "representativeLongitude": 126.8265111,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "24844AD1181DFD2B6A5E259902CF2D4C2BD253D0774490C0E35CABCA0EA4B2A6",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8265111,
+          34.9579212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_078",
+      "properties": {
+        "zoneId": "SZ_078",
+        "policeZoneId": "PZ_2026_SZ_078",
+        "facilityName": "노안초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 노안면 노안로 165",
+        "representativeLatitude": 35.08058696,
+        "representativeLongitude": 126.7183118,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "BA1C13C6C21792D40DB0D88586D312A0EA75D2C32F9CE84E3FA9B8AC3301C240",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7183118,
+          35.080587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_079",
+      "properties": {
+        "zoneId": "SZ_079",
+        "policeZoneId": "PZ_2026_SZ_079",
+        "facilityName": "노안남초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 노안면 만호길 20-11",
+        "representativeLatitude": 35.06766837,
+        "representativeLongitude": 126.7512067,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "8652CF20A620F77B5B515B1F38F190442232D7CBAD9377150F53F0096D27D7B8",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7512067,
+          35.0676684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_080",
+      "properties": {
+        "zoneId": "SZ_080",
+        "policeZoneId": "PZ_2026_SZ_080",
+        "facilityName": "남평초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 남평읍 남평3로 14-13",
+        "representativeLatitude": 35.04259296,
+        "representativeLongitude": 126.8447933,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "7380842C552BA95126E61A965E6234ADD238E7BD39E760F726E2FC5C6420FA6A",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8447933,
+          35.042593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_081",
+      "properties": {
+        "zoneId": "SZ_081",
+        "policeZoneId": "PZ_2026_SZ_081",
+        "facilityName": "나주초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 남외1길 16",
+        "representativeLatitude": 35.02776078,
+        "representativeLongitude": 126.7189183,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "02A2DF2828D3B16912051156215A3DBFCA2AE922E203BFAFD28250A676E15194",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7189183,
+          35.0277608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_082",
+      "properties": {
+        "zoneId": "SZ_082",
+        "policeZoneId": "PZ_2026_SZ_082",
+        "facilityName": "나주이화학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 산포면 세남로 1354",
+        "representativeLatitude": 35.01130369,
+        "representativeLongitude": 126.8232372,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "48C6374CDC5A74F02D70A4D4C5628BD01301CE44F1666CF58BDEB176B9AD465D",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8232372,
+          35.0113037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_083",
+      "properties": {
+        "zoneId": "SZ_083",
+        "policeZoneId": "PZ_2026_SZ_083",
+        "facilityName": "나주북초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 청암길 47-23",
+        "representativeLatitude": 35.04811957,
+        "representativeLongitude": 126.7277708,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "6C103CA0AD4CB656057FEE6078D01EEE232FC065D4EF1A7E2F4271E43140FCB0",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7277708,
+          35.0481196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_084",
+      "properties": {
+        "zoneId": "SZ_084",
+        "policeZoneId": "PZ_2026_SZ_084",
+        "facilityName": "금천초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 금천면 금영로 960",
+        "representativeLatitude": 35.03431013,
+        "representativeLongitude": 126.7546349,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "460D567B5E4FFA54A96F36F47D713631D2F16F798E85369D71E9B25328E002BD",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7546349,
+          35.0343101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_085",
+      "properties": {
+        "zoneId": "SZ_085",
+        "policeZoneId": "PZ_2026_SZ_085",
+        "facilityName": "공산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 공산면 공산로 85",
+        "representativeLatitude": 34.94158386,
+        "representativeLongitude": 126.6135047,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "523F8BCE6546B44739DF8043E18DB655044B2CD940D4CBC9ABCE3F6023E54ECA",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.6135047,
+          34.9415839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_086",
+      "properties": {
+        "zoneId": "SZ_086",
+        "policeZoneId": "PZ_2026_SZ_086",
+        "facilityName": "한아름초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "전남광주통합특별시 나주시 호수로 134",
+        "representativeLatitude": 35.01271991,
+        "representativeLongitude": 126.7973839,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "2839113C6AD77C414980EBE586144110F4EB4D1A6A9E62BFC683808379B4F1B7",
+        "sourceReferenceDate": "2026-09-23",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7973839,
+          35.0127199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_087",
+      "properties": {
+        "zoneId": "SZ_087",
+        "policeZoneId": "PZ_2026_SZ_087",
+        "facilityName": "다빛초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "세종특별자치시 달빛1로 7",
+        "representativeLatitude": 36.50007105,
+        "representativeLongitude": 127.244086,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "AEB01BA33E0D2B93142663E2E7DBF08A700929B48789E512999782BEA7F2906C",
+        "sourceReferenceDate": "2026-09-29",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.244086,
+          36.5000711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_088",
+      "properties": {
+        "zoneId": "SZ_088",
+        "policeZoneId": "PZ_2026_SZ_088",
+        "facilityName": "늘봄초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "세종특별자치시 다솜1로 183",
+        "representativeLatitude": 36.51434376,
+        "representativeLongitude": 127.2551568,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "1868BBAD973F2121D3C94665B8223374BB515D38D2B0BE381BC2C4C69BF8BE91",
+        "sourceReferenceDate": "2026-09-29",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2551568,
+          36.5143438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_089",
+      "properties": {
+        "zoneId": "SZ_089",
+        "policeZoneId": "PZ_2026_SZ_089",
+        "facilityName": "나성초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "세종특별자치시 갈매로 294",
+        "representativeLatitude": 36.48997971,
+        "representativeLongitude": 127.2643553,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "7DF9DBEA3F1139E14383AC36BC4F6FB795303DD6357A92838D76584228F4C074",
+        "sourceReferenceDate": "2026-09-29",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2643553,
+          36.4899797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_090",
+      "properties": {
+        "zoneId": "SZ_090",
+        "policeZoneId": "PZ_2026_SZ_090",
+        "facilityName": "나성유치원",
+        "facilityType": "유치원",
+        "canonicalAddress": "세종특별자치시 중앙공원서로 11",
+        "representativeLatitude": 36.48966284,
+        "representativeLongitude": 127.2652182,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "A80D693D704B66B7258D12DD134AEE36B89C9B49097FFBD1D29A4124ACA0C1C0",
+        "sourceReferenceDate": "2026-09-29",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.2652182,
+          36.4896628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_091",
+      "properties": {
+        "zoneId": "SZ_091",
+        "policeZoneId": "PZ_2026_SZ_091",
+        "facilityName": "나루초등학교병설유치원",
+        "facilityType": "유치원",
+        "canonicalAddress": "세종특별자치시 집현서로 90",
+        "representativeLatitude": 36.49539331,
+        "representativeLongitude": 127.3236309,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "7B70BCC48FB77EA5BB3C904F2A1CA4B348F54CEF3667F295AE140B2290FFEFA6",
+        "sourceReferenceDate": "2026-09-29",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3236309,
+          36.4953933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_092",
+      "properties": {
+        "zoneId": "SZ_092",
+        "policeZoneId": "PZ_2026_SZ_092",
+        "facilityName": "장항초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 장항읍 성주길 6",
+        "representativeLatitude": 36.02056403,
+        "representativeLongitude": 126.7001922,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "33287078A1636AE1496A9E36FA18FF1ECE2AC7EAA3E96C0440389258CF35FC9D",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7001922,
+          36.020564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_093",
+      "properties": {
+        "zoneId": "SZ_093",
+        "policeZoneId": "PZ_2026_SZ_093",
+        "facilityName": "장항중앙초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 장항읍 장항로121번길 7",
+        "representativeLatitude": 36.01336243,
+        "representativeLongitude": 126.690653,
+        "zoneGeometryType": "Polygon",
+        "zoneGeometrySha256": "13AFCF71B3AFA3C22AB3AC5F8227D7E3CF31EDB602A67334E19CD427180F8485",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "LINK_SZ_093_01",
+        "fromNodeId": "NODE_SZ_093_F01",
+        "toNodeId": "NODE_SZ_093_T01",
+        "linkGeometrySha256": "0AC215530B4D762723F318991C3A052BDF79498BAFB44B36E021CBF0C8811519",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED;CROSSWALK_STRAIGHT;CROSSWALK_LEFT_TURN;CROSSWALK_RIGHT_TURN;INTERSECTION_APPROACH",
+        "eligibilityStatus": "SELECTED_V2_ZONE_AND_CROSSWALK",
+        "exclusionOrHoldReason": "NONE_PASSED_GRADE_B",
+        "laneCount": 2,
+        "oneWay": "False",
+        "roadClass": "URBAN_COLLECTOR",
+        "connectedLinkIds": "LINK_SZ_093_02;LINK_SZ_093_03",
+        "intersectionNodeIds": "NODE_SZ_093_F01;NODE_SZ_093_T01",
+        "batchEligible": true,
+        "qualityGrade": "GRADE_B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.688853,
+              36.0118624
+            ],
+            [
+              126.692453,
+              36.0118624
+            ],
+            [
+              126.692453,
+              36.0148624
+            ],
+            [
+              126.688853,
+              36.0148624
+            ],
+            [
+              126.688853,
+              36.0118624
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_094",
+      "properties": {
+        "zoneId": "SZ_094",
+        "policeZoneId": "PZ_2026_SZ_094",
+        "facilityName": "한산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 한산면 한마로 48",
+        "representativeLatitude": 36.08595875,
+        "representativeLongitude": 126.8040055,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "ECA5F2D18FF419B3EED6B54767C79971E8B978A151B21D21F35F75C17B0A4150",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8040055,
+          36.0859588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_095",
+      "properties": {
+        "zoneId": "SZ_095",
+        "policeZoneId": "PZ_2026_SZ_095",
+        "facilityName": "화양초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 화양면 화산로 64",
+        "representativeLatitude": 36.043235,
+        "representativeLongitude": 126.7762402,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "7C39BF4336F6F6C845845E7D0138836D5AB82B6985123A5C133E8702AB61A816",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7762402,
+          36.043235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_096",
+      "properties": {
+        "zoneId": "SZ_096",
+        "policeZoneId": "PZ_2026_SZ_096",
+        "facilityName": "기산초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 기산면 기산길 107",
+        "representativeLatitude": 36.07441578,
+        "representativeLongitude": 126.7676128,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "CC3528F5938CA3C2D3B642360E30B78BDAF1ED875D3DC63DD85030A3B21778D5",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7676128,
+          36.0744158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_097",
+      "properties": {
+        "zoneId": "SZ_097",
+        "policeZoneId": "PZ_2026_SZ_097",
+        "facilityName": "마동초등학교",
+        "facilityType": "초등학교",
+        "canonicalAddress": "충청남도 서천군 마서면 원송로 229",
+        "representativeLatitude": 36.02493185,
+        "representativeLongitude": 126.7144164,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "1326370799CD846D408BE7CFCD33B7C71A65AE3E5481AD0031CF69A37A269A09",
+        "sourceReferenceDate": "2026-08-11",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7144164,
+          36.0249319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_098",
+      "properties": {
+        "zoneId": "SZ_098",
+        "policeZoneId": "PZ_2026_SZ_098",
+        "facilityName": "봉래초등학교병설유치원",
+        "facilityType": "유치원",
+        "canonicalAddress": "부산광역시 중구 대영로226번길 15",
+        "representativeLatitude": 35.11139656,
+        "representativeLongitude": 129.0355679,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "81BBEBD456EBF57DA236EEDFED101305B93793A72FA4FE536BC464FFB3A68B57",
+        "sourceReferenceDate": "2026-09-08",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0355679,
+          35.1113966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_099",
+      "properties": {
+        "zoneId": "SZ_099",
+        "policeZoneId": "PZ_2026_SZ_099",
+        "facilityName": "광일초등학교병설유치원",
+        "facilityType": "유치원",
+        "canonicalAddress": "부산광역시 중구 중구로 74",
+        "representativeLatitude": 35.10400525,
+        "representativeLongitude": 129.0298609,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "5C3588B759E58089C8DEF30A8285570AA6FF96231C2FDF2332BFF7FC4B367AE3",
+        "sourceReferenceDate": "2026-09-08",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0298609,
+          35.1040053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SZ_100",
+      "properties": {
+        "zoneId": "SZ_100",
+        "policeZoneId": "PZ_2026_SZ_100",
+        "facilityName": "숲속리더유치원",
+        "facilityType": "어린이집",
+        "canonicalAddress": "부산광역시 중구 책방골목길 17-12",
+        "representativeLatitude": 35.10376001,
+        "representativeLongitude": 129.0272895,
+        "zoneGeometryType": "Point",
+        "zoneGeometrySha256": "8BF1D6E4395CD1F916E0D55AD2C44437ACCC4403D64F4FA5CAF7CE397049A62F",
+        "sourceReferenceDate": "2026-09-08",
+        "sourceUrl": "https://www.data.go.kr/data/15012891/standard.do",
+        "roadLinkId": "PENDING_ITS_LINK_ASSOCIATION",
+        "fromNodeId": "PENDING_NODE_F",
+        "toNodeId": "PENDING_NODE_T",
+        "linkGeometrySha256": "A14BC60D711D2DBC5E3A6501814C89349C966009198CBE793DBCAC62F69662BA",
+        "scenarioClass": "ZONE_ENTRY;STRAIGHT_SILENCE;STALE_SUPPRESSION;LOW_QUALITY_FAIL_CLOSED",
+        "eligibilityStatus": "HOLD_V2_GEOMETRY_PENDING",
+        "exclusionOrHoldReason": "HOLD_V2_GEOMETRY_PENDING: 표준데이터(15012891) 존재하나 경찰청API(15118616) 지오메트리 수신대기",
+        "laneCount": 0,
+        "oneWay": "UNKNOWN",
+        "roadClass": "UNKNOWN",
+        "connectedLinkIds": "NONE",
+        "intersectionNodeIds": "NONE",
+        "batchEligible": false,
+        "qualityGrade": "GRADE_C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0272895,
+          35.10376
+        ]
+      }
+    }
+  ]
+}

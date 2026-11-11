@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "referenceAnchor": {
+      "latitude": 37.401,
+      "longitude": 127.106,
+      "altitudeMeters": 35.0
+    },
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU",
+    "geodeticDatum": "WGS84"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.1060671,
+              37.4011335
+            ],
+            [
+              127.106115,
+              37.4011717
+            ],
+            [
+              127.106091,
+              37.4011909
+            ],
+            [
+              127.1060431,
+              37.4011526
+            ],
+            [
+              127.1060671,
+              37.4011335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "featureId": "DEMO_SZ_001",
+        "riskType": "SCHOOL_ZONE_CURVE",
+        "source": "SYNTHETIC_SCENARIO",
+        "geometryMethod": "SYNTHETIC_RECTANGLE",
+        "manualVerified": false,
+        "coordinateQuality": "SCENARIO",
+        "widthMeters": 6.0,
+        "lengthMeters": 3.0,
+        "directionDegrees": 45.0,
+        "centerLocalEnu": [
+          7.0,
+          18.0,
+          0.0
+        ],
+        "sourceDate": "2026-11-08",
+        "notes": "Synthetic scenario school zone curve pedestrian risk zone on right curvature"
+      }
+    }
+  ]
+}

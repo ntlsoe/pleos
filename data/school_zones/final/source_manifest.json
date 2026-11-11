@@ -1,0 +1,68 @@
+{
+  "manifestVersion": "FINAL_100_V1",
+  "generatedAt": "2026-11-08T12:43:10.465684+00:00",
+  "totalSchoolZones": 100,
+  "selectionBreakdown": {
+    "SELECTED_CROSSWALK_VERIFIED": 10,
+    "SELECTED_ZONE_CONTEXT_CROSSWALK_AMBIGUOUS": 8,
+    "SELECTED_ZONE_CONTEXT_POLYGON_PENDING": 14,
+    "SELECTED_VWORLD_LINK_CONFIRMED": 45,
+    "SELECTED_VWORLD_LINK_MANUAL_CAUTION": 23,
+    "NEW_REPLACEMENTS": 0,
+    "TOTAL_SUM": 100
+  },
+  "dataSources": [
+    {
+      "name": "전국어린이보호구역표준데이터",
+      "sourceId": "15012891",
+      "provider": "행정안전부 / 공공데이터포털",
+      "recordCount": 100,
+      "license": "공공누리 제1유형"
+    },
+    {
+      "name": "국토교통부 표준 교통노드 (LT_P_MOCTNODE)",
+      "sourceId": "15057463 / VWorld Data API 2.0",
+      "provider": "국토교통부 국토정보플랫폼",
+      "recordCount": 418,
+      "crs": "EPSG:4326"
+    },
+    {
+      "name": "국토교통부 표준 도로링크 (LT_L_MOCTLINK)",
+      "sourceId": "VWorld Data API 2.0",
+      "provider": "국토교통부 국토정보플랫폼",
+      "recordCount": 832,
+      "crs": "EPSG:4326"
+    },
+    {
+      "name": "경찰청 전국 보호구역정보 API",
+      "sourceId": "15118616",
+      "provider": "경찰청",
+      "recordCount": 100
+    },
+    {
+      "name": "전국횡단보도표준데이터",
+      "sourceId": "15028201",
+      "provider": "경찰청 / 행정안전부",
+      "recordCount": 10,
+      "note": "정밀 횡단보도 가림 배치 배치 허용 구역 10곳 전용"
+    }
+  ],
+  "manual23Handling": {
+    "totalCount": 23,
+    "intersectionProhibitedZones": [
+      "SZ_074",
+      "SZ_081"
+    ],
+    "multipleLinksAmbiguousZones": [
+      "SZ_002",
+      "SZ_089",
+      "SZ_100"
+    ],
+    "disclaimer": "CONFIRMED_WITH_CAUTION (공식 node/link 존재, 시연용 Corridor 파생)"
+  },
+  "safetyBoundary": {
+    "REAL_INPUT": "ALL_EXPERIMENTAL_OUTPUT_DISABLED",
+    "RELEASE": "ALL_EXPERIMENTAL_OUTPUT_DISABLED",
+    "DEMO_INTEGRATION": "L0_L1_L2_L3_EXPERIMENTAL_ALLOWED"
+  }
+}

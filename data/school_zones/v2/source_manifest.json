@@ -1,0 +1,83 @@
+{
+  "datasetName": "Pleos Safety Window School Zone Dataset v2",
+  "createdAt": "2026-11-08T12:00:00Z",
+  "version": "2.0.0",
+  "totalZones": 100,
+  "selectedCount": 32,
+  "holdCount": 68,
+  "replacedCount": 0,
+  "batchOcclusionEligibleCount": 10,
+  "officialSources": [
+    {
+      "sourceName": "전국어린이보호구역표준데이터",
+      "agency": "공공데이터포털 / 행정안전부",
+      "url": "https://www.data.go.kr/data/15012891/standard.do",
+      "referenceDate": "2026-08-11",
+      "recordCount": 14642,
+      "purpose": "시설명, 시설유형, 주소, 대표 위경도, 도로폭",
+      "license": "공공누리 제1유형 (출처표시, 상업용 이용가능)"
+    },
+    {
+      "sourceName": "경찰청 전국 보호구역정보 API",
+      "agency": "경찰청 / 공공데이터포털",
+      "url": "https://www.data.go.kr/data/15118616/openapi.do",
+      "referenceDate": "2026-11-08",
+      "recordCount": 100,
+      "purpose": "보호구역 고유 ID 및 상세 도로구간 지오메트리",
+      "license": "공공데이터포털 오픈API 이용약관"
+    },
+    {
+      "sourceName": "국토교통부·ITS 표준 노드/링크",
+      "agency": "국토교통부 / 한국교통안전공단",
+      "url": "https://www.its.go.kr/nodelink/nodelinkRef",
+      "referenceDate": "2026-09",
+      "recordCount": 100,
+      "purpose": "도로 중심선, 링크, 교차로 노드, 연결관계",
+      "license": "국토교통부 국가공간정보 기본법 제29조"
+    },
+    {
+      "sourceName": "국토교통부 교통노드 API",
+      "agency": "국토교통부 / 공공데이터포털",
+      "url": "https://www.data.go.kr/data/15057463/openapi.do",
+      "referenceDate": "2026-11-08",
+      "recordCount": 100,
+      "purpose": "교차로 노드 보강 및 공간연결",
+      "license": "공공데이터포털 오픈API 이용약관"
+    },
+    {
+      "sourceName": "전국횡단보도표준데이터",
+      "agency": "국토교통부·경찰청·지자체",
+      "url": "https://www.data.go.kr/data/15028201/standard.do",
+      "referenceDate": "2026-09",
+      "recordCount": 50000,
+      "purpose": "횡단보도 관리번호, 중심점, 폭, 연장, 신호등",
+      "license": "공공누리 제1유형 (출처표시)"
+    }
+  ],
+  "files": {
+    "school_zone_100_selected.geojson": {
+      "bytes": 175179,
+      "sha256": "E0BA65013B2EA1910654A79A29467C667A58F07B273A538D65F908B83059ECCE"
+    },
+    "school_zone_100_selected.json": {
+      "bytes": 129016,
+      "sha256": "F06912C43D9A391B8EF4ADB698BEA3135E01AFA4962EB545F206A22383864F0D"
+    },
+    "school_zone_100_master.csv": {
+      "bytes": 64688,
+      "sha256": "826CA9437C3BF43CAA677D941C39F88A75913A3E87CB2985E3A10979AB742540"
+    },
+    "zone_road_link_join.csv": {
+      "bytes": 21836,
+      "sha256": "3ACF0A21A1A632EF821D244A523E335058A16326B924D8E6115456C9201B2BBC"
+    },
+    "risk_features.geojson": {
+      "bytes": 38325,
+      "sha256": "9F49340895327446B083CADD5C0321A94221A369405B055B2082A52C1EEDD380"
+    },
+    "replacement_register.csv": {
+      "bytes": 26533,
+      "sha256": "EAA667A1EB0DE6C3E1BD177D2E36F941D881B8D970D875128FF7F5D466122363"
+    }
+  }
+}

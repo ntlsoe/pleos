@@ -1,0 +1,156 @@
+{
+  "scenarios": [
+    {
+      "id": "S0",
+      "name": "Clear Field No Occlusion",
+      "trajectoryType": "STRAIGHT",
+      "speedKmh": 20.0,
+      "durationSeconds": 3.0,
+      "timeStepSeconds": 0.05,
+      "riskSurface": {
+        "id": "clear_ahead_zone",
+        "type": "CUSTOM_TEST_SURFACE",
+        "origin": [25.0, 10.0, 0.5],
+        "lengthX": 3.0,
+        "widthY": 2.0,
+        "heightZ": 0.0
+      }
+    },
+    {
+      "id": "S1",
+      "name": "Straight Road Crosswalk",
+      "trajectoryType": "STRAIGHT",
+      "speedsKmh": [5.0, 10.0, 30.0],
+      "durationSeconds": 4.0,
+      "timeStepSeconds": 0.05,
+      "riskSurface": {
+        "id": "crosswalk_s1",
+        "type": "CROSSWALK",
+        "origin": [14.0, 0.0, 0.5],
+        "lengthX": 3.0,
+        "widthY": 8.0,
+        "heightZ": 0.0
+      }
+    },
+    {
+      "id": "S2",
+      "name": "Right Turn Across Crosswalk",
+      "trajectoryType": "CONSTANT_RADIUS_RIGHT",
+      "radiiMeters": [5.0, 7.0, 10.0],
+      "speedsKmh": [5.0, 10.0, 15.0],
+      "durationSeconds": 4.0,
+      "timeStepSeconds": 0.05,
+      "riskSurface": {
+        "id": "crosswalk_s2_right",
+        "type": "CROSSWALK",
+        "origin": [7.0, -4.5, 0.5],
+        "lengthX": 4.0,
+        "widthY": 5.0,
+        "heightZ": 0.0
+      }
+    },
+    {
+      "id": "S3",
+      "name": "Left Turn Symmetry Verification",
+      "trajectoryType": "CONSTANT_RADIUS_LEFT",
+      "radiiMeters": [7.0, 10.0],
+      "speedsKmh": [10.0],
+      "durationSeconds": 4.0,
+      "timeStepSeconds": 0.05,
+      "riskSurface": {
+        "id": "crosswalk_s3_left",
+        "type": "CROSSWALK",
+        "origin": [7.0, 4.5, 0.5],
+        "lengthX": 4.0,
+        "widthY": 5.0,
+        "heightZ": 0.0
+      }
+    },
+    {
+      "id": "S4",
+      "name": "Stop-and-Go Straight",
+      "trajectoryType": "STOP_AND_GO_STRAIGHT",
+      "targetSpeedKmh": 20.0,
+      "accelProfiles": ["GENTLE", "NORMAL", "BRISK"],
+      "durationSeconds": 5.0,
+      "timeStepSeconds": 0.05,
+      "riskSurface": {
+        "id": "crosswalk_s4",
+        "type": "CROSSWALK",
+        "origin": [10.0, 0.0, 0.5],
+        "lengthX": 3.0,
+        "widthY": 6.0,
+        "heightZ": 0.0
+      }
+    },
+    {
+      "id": "S5",
+      "name": "Stop-and-Go Right Turn",
+      "trajectoryType": "STOP_AND_GO_RIGHT_TURN",
+      "targetSpeedKmh": 15.0,
+      "radiusMeters": 8.0,
+      "accelProfile": "NORMAL",
+      "durationSeconds": 5.0,
+      "timeStepSeconds": 0.05,
+      "riskSurface": {
+        "id": "crosswalk_s5",
+        "type": "CROSSWALK",
+        "origin": [8.0, -5.0, 0.5],
+        "lengthX": 4.0,
+        "widthY": 5.0,
+        "heightZ": 0.0
+      }
+    },
+    {
+      "id": "S6",
+      "name": "Curved School Zone",
+      "trajectoryType": "CONSTANT_RADIUS_RIGHT",
+      "radiusMeters": 25.0,
+      "speedKmh": 20.0,
+      "durationSeconds": 4.0,
+      "timeStepSeconds": 0.05,
+      "riskSurface": {
+        "id": "school_zone_curve",
+        "type": "SCHOOL_ZONE_ENTRY",
+        "origin": [15.0, 2.5, 0.5],
+        "lengthX": 4.0,
+        "widthY": 6.0,
+        "heightZ": 0.0
+      }
+    },
+    {
+      "id": "S7",
+      "name": "Narrow Road Junction Approach",
+      "trajectoryType": "STRAIGHT",
+      "speedKmh": 15.0,
+      "durationSeconds": 4.0,
+      "timeStepSeconds": 0.05,
+      "riskSurface": {
+        "id": "narrow_junction",
+        "type": "NARROW_ROAD_JUNCTION",
+        "origin": [12.0, 0.0, 0.5],
+        "lengthX": 3.0,
+        "widthY": 4.0,
+        "heightZ": 0.0
+      }
+    },
+    {
+      "id": "S8",
+      "name": "Uncertainty Robustness",
+      "trajectoryType": "CONSTANT_RADIUS_RIGHT",
+      "radiusMeters": 6.0,
+      "speedKmh": 8.0,
+      "durationSeconds": 4.0,
+      "timeStepSeconds": 0.05,
+      "noiseLevels": ["NO_ERROR", "SMALL_ERROR", "MEDIUM_ERROR", "LARGE_ERROR"],
+      "riskSurface": {
+        "id": "crosswalk_s8",
+        "type": "CROSSWALK",
+        "origin": [6.0, -4.0, 0.5],
+        "lengthX": 3.0,
+        "widthY": 5.0,
+        "heightZ": 0.0
+      }
+    }
+  ]
+}

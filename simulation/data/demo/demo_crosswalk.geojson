@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "referenceAnchor": {
+      "latitude": 37.401,
+      "longitude": 127.106,
+      "altitudeMeters": 35.0
+    },
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU",
+    "geodeticDatum": "WGS84"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.1059548,
+              37.4011216
+            ],
+            [
+              127.1060452,
+              37.4011216
+            ],
+            [
+              127.1060452,
+              37.4011487
+            ],
+            [
+              127.1059548,
+              37.4011487
+            ],
+            [
+              127.1059548,
+              37.4011216
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "featureId": "DEMO_CW_001",
+        "riskType": "CROSSWALK",
+        "source": "SYNTHETIC_SCENARIO",
+        "geometryMethod": "SYNTHETIC_RECTANGLE",
+        "manualVerified": false,
+        "coordinateQuality": "SCENARIO",
+        "widthMeters": 8.0,
+        "lengthMeters": 3.0,
+        "directionDegrees": 90.0,
+        "centerLocalEnu": [
+          0.0,
+          15.0,
+          0.0
+        ],
+        "sourceDate": "2026-11-08",
+        "notes": "Synthetic scenario pedestrian crosswalk 15m ahead across lane"
+      }
+    }
+  ]
+}

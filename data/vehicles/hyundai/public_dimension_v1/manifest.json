@@ -1,0 +1,35 @@
+{
+  "datasetName": "Hyundai Vehicle Public Dimensions v1",
+  "vehicleCount": 5,
+  "verificationLevel": "PUBLIC_DIMENSION_ONLY",
+  "pillarGeometryStatus": "SYNTHETIC_APPROXIMATION",
+  "eyeModelStatus": "REPRESENTATIVE_POPULATION_APPROXIMATION",
+  "source": "Official OEM Specifications and Manuals",
+  "files": {
+    "ioniq5.json": {
+      "profileId": "HYUNDAI_IONIQ5_PUBLIC_DIMENSION_APPROX_V1",
+      "bytes": 638,
+      "sha256": "7E6BD6634FDC5529D72CB51F5F5B6139AE43C0FC50AF2E125DFD8B16B4D34634"
+    },
+    "ioniq6.json": {
+      "profileId": "HYUNDAI_IONIQ6_PUBLIC_DIMENSION_APPROX_V1",
+      "bytes": 630,
+      "sha256": "3CE1668B0433CADD31ED5FD0122C9BCBE81ECD7FB931631DA4AF47BE59C712E0"
+    },
+    "ioniq9.json": {
+      "profileId": "HYUNDAI_IONIQ9_PUBLIC_DIMENSION_APPROX_V1",
+      "bytes": 630,
+      "sha256": "9F77F6109E40EEFC53D8B2534C301A52052F705076616CA134DEA71F3FA05AAF"
+    },
+    "grandeur.json": {
+      "profileId": "HYUNDAI_GRANDEUR_PUBLIC_DIMENSION_APPROX_V1",
+      "bytes": 656,
+      "sha256": "1A286DCC0989780AC9389FE0F7379C10AD2CC6700E52C0E934685D94E6447A76"
+    },
+    "casper.json": {
+      "profileId": "HYUNDAI_CASPER_PUBLIC_DIMENSION_APPROX_V1",
+      "bytes": 604,
+      "sha256": "D35C2933466DC813FABCE825877733B7C00021C58F372BBFED7D4ECE11E2D00E"
+    }
+  }
+}

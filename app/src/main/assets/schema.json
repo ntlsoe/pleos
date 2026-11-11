@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "version": "1.0.0",
+  "appName": "Pleos Safety Window",
+  "packageName": "ai.pleos.app.safetywindow",
+  "actionCalls": [
+    {
+      "name": "OPEN_SAFETY_WINDOW",
+      "description": "Opens or activates the A-pillar blind spot safety visualization window HUD on the automotive display.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "mode": {
+            "type": "string",
+            "enum": [
+              "AUTO",
+              "SPLIT_VIEW",
+              "FULL_HUD"
+            ],
+            "description": "Visualization view mode for the safety window"
+          }
+        },
+        "required": []
+      }
+    },
+    {
+      "name": "SET_SAFETY_SENSITIVITY",
+      "description": "Adjusts the sensitivity level for risk prediction and blind spot obstacle detection.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "level": {
+            "type": "string",
+            "enum": [
+              "LOW",
+              "MEDIUM",
+              "HIGH"
+            ],
+            "description": "Sensitivity tier for warning triggers and early school-zone activation"
+          }
+        },
+        "required": [
+          "level"
+        ]
+      }
+    },
+    {
+      "name": "CHECK_DRIVING_SAFETY_SUMMARY",
+      "description": "Queries and speaks the current driving safety status, risk score, and detected hazard summary along the route.",
+      "parameters": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    }
+  ]
+}

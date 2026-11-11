@@ -1,0 +1,16 @@
+{
+  "profileId": "HYUNDAI_IONIQ6_PUBLIC_DIMENSION_APPROX_V1",
+  "modelName": "아이오닉 6",
+  "modelYear": "2024",
+  "bodyType": "전기 세단",
+  "lengthMm": 4855,
+  "widthMm": 1880,
+  "heightMm": 1495,
+  "wheelbaseMm": 2950,
+  "steeringSide": "LEFT_HAND_DRIVE",
+  "verificationLevel": "PUBLIC_DIMENSION_ONLY",
+  "pillarGeometryStatus": "SYNTHETIC_APPROXIMATION",
+  "eyeModelStatus": "REPRESENTATIVE_POPULATION_APPROXIMATION",
+  "sourceUrl": "https://ownersmanual.hyundai.com/full_webhelp/CE1/2024/ko_KR/id2c1a6aad2ce.html",
+  "limitations": "공식 취급설명서 외형 제원. A필러·눈 위치 근사"
+}

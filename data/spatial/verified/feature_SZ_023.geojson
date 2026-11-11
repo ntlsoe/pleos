@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "zoneId": "SZ_023",
+    "facilityName": "문산초등학교",
+    "crosswalkSourceRecordId": "G00148",
+    "referenceAnchor": {
+      "latitude": 35.187953,
+      "longitude": 126.925242,
+      "altitudeMeters": 30.0
+    },
+    "projectionMethod": "LOCAL_TANGENT_PLANE_ENU",
+    "geodeticDatum": "WGS84",
+    "qualityGrade": "GRADE_B_MANUALLY_VERIFIED_MAP_GEOMETRY"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.925383,
+              35.187946
+            ],
+            [
+              126.9253716,
+              35.187999
+            ],
+            [
+              126.925101,
+              35.18796
+            ],
+            [
+              126.9251124,
+              35.187907
+            ],
+            [
+              126.925383,
+              35.187946
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "featureId": "FEATURE_VERIFIED_SZ_023",
+        "zoneId": "SZ_023",
+        "facilityName": "문산초등학교",
+        "riskType": "CROSSWALK",
+        "crosswalkSourceRecordId": "G00148",
+        "source": "MANUALLY_VERIFIED_MAP_GEOMETRY",
+        "geometryMethod": "ORTHOPHOTO_MANUAL_ALIGNMENT",
+        "manualVerified": true,
+        "qualityGrade": "GRADE_B",
+        "eligibleForOcclusionBatch": true,
+        "widthMeters": 6.0,
+        "lengthMeters": 25.0,
+        "directionDegrees": 80.0,
+        "centerLocalEnu": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "verifiedDate": "2026-11-08",
+        "verifiedBy": "Dongjin Kim (Yonsei Univ Severance Hospital)",
+        "overlayFile": "data/spatial/verified/feature_SZ_023_measurement_overlay.png",
+        "overlayFileSha256": "5956BE5237E55C5406C8820B5993CC55DC12BEE4ED21A6FF715AC3A79B8B5C23",
+        "license": "Korea Open Government License (KOGL) Type 1",
+        "notes": "School zone SZ_023 verified against National Crosswalk Standard G00148 and NGII/VWorld orthophoto"
+      }
+    }
+  ]
+}

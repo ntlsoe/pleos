@@ -1,0 +1,3 @@
+-keep class ai.pleos.playground.** { *; }
+-keep interface ai.pleos.playground.** { *; }
+-keep class ai.pleos.app.safetywindow.** { *; }

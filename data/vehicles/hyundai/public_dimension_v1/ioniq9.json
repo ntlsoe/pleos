@@ -1,0 +1,16 @@
+{
+  "profileId": "HYUNDAI_IONIQ9_PUBLIC_DIMENSION_APPROX_V1",
+  "modelName": "아이오닉 9",
+  "modelYear": "2026",
+  "bodyType": "대형 전기 SUV",
+  "lengthMm": 5060,
+  "widthMm": 1980,
+  "heightMm": 1790,
+  "wheelbaseMm": 3130,
+  "steeringSide": "LEFT_HAND_DRIVE",
+  "verificationLevel": "PUBLIC_DIMENSION_ONLY",
+  "pillarGeometryStatus": "SYNTHETIC_APPROXIMATION",
+  "eyeModelStatus": "REPRESENTATIVE_POPULATION_APPROXIMATION",
+  "sourceUrl": "https://www.hyundai.com/kr/ko/e/vehicles/ioniq9/intro",
+  "limitations": "공식 현행 모델. 외형 수치는 카탈로그 기준, A필러·눈 위치 근사"
+}

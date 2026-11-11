@@ -1,0 +1,30 @@
+{
+  "datasetName": "Pleos vehicle and school-zone dataset v1",
+  "createdAt": "2026-11-08T05:06:15.622632",
+  "vehicleCount": 5,
+  "schoolZoneCandidateCount": 100,
+  "occlusionEligibleCount": 0,
+  "limitations": [
+    "보호구역 100곳은 점좌표 후보이며 횡단보도 방향각/Polygon 미검증",
+    "차량 A필러·운전자 눈 위치는 공개 제원에 없어 V1에서 합성 근사 필요",
+    "실차 안전효과 및 차종별 안전성 순위 주장 금지"
+  ],
+  "files": {
+    "vehicle_profiles.json": {
+      "sha256": "295352408e3f2c595e9ec4c59346941fb8e5f3f0f114eb83e26ab3c751418fa6",
+      "bytes": 3255
+    },
+    "school_zones_100.json": {
+      "sha256": "240856c746951ccb15f2ba00bf96cc39d17ae61befebcf1e03212b0524b02ccc",
+      "bytes": 97047
+    },
+    "school_zones_100.csv": {
+      "sha256": "2417f433dea58d533b0786cf8d1ce66f1402dc8fd98f82796bc6cbc6f12f6475",
+      "bytes": 46655
+    },
+    "school_zones_100.geojson": {
+      "sha256": "3042c7ac07d3e5259421ebec846006bf5e541be4bd06f9105fc9079d54550377",
+      "bytes": 119943
+    }
+  }
+}

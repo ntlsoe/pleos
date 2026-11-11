@@ -1,0 +1,56 @@
+{
+  "profileId": "RepresentativeMpvV0",
+  "parameterClass": "SYNTHETIC_TEST_ONLY",
+  "notValidatedAgainstProductionVehicle": true,
+  "coordinateSystem": "ISO 8855: +X forward, +Y left, +Z up, origin at rear-axle ground projection (Z=0)",
+  "originDefinition": "Ground projection of center of rear axle (Z=0)",
+  "assumptions": [
+    "Origin placed at ground projection of rear axle center per ISO 8855 standard",
+    "Driver seating position placed in cab-forward geometry (X = +1.40m, Y = +0.42m, Z = +1.45m)",
+    "A-pillar 8-vertex prism base at X = 2.45m, top at X = 1.85m",
+    "Representative parameters for algorithm validation only, not calibrated against any production vehicle"
+  ],
+  "wheelbaseMeters": 3.00,
+  "trackWidthMeters": 1.70,
+  "frontOverhangMeters": 0.90,
+  "rearOverhangMeters": 0.90,
+  "totalLengthMeters": 4.80,
+  "totalWidthMeters": 1.92,
+  "totalHeightMeters": 1.78,
+  "driverEyeNominal": {
+    "x": 1.40,
+    "y": 0.42,
+    "z": 1.45
+  },
+  "ipdMeters": 0.065,
+  "leftPillar": {
+    "side": "LEFT",
+    "base": {
+      "frontOuter": [2.45, 0.78, 1.10],
+      "frontInner": [2.47, 0.69, 1.10],
+      "rearInner":  [2.37, 0.68, 1.10],
+      "rearOuter":  [2.35, 0.77, 1.10]
+    },
+    "top": {
+      "frontOuter": [1.85, 0.64, 1.68],
+      "frontInner": [1.87, 0.55, 1.68],
+      "rearInner":  [1.77, 0.54, 1.68],
+      "rearOuter":  [1.75, 0.63, 1.68]
+    }
+  },
+  "rightPillar": {
+    "side": "RIGHT",
+    "base": {
+      "frontOuter": [2.45, -0.78, 1.10],
+      "frontInner": [2.47, -0.69, 1.10],
+      "rearInner":  [2.37, -0.68, 1.10],
+      "rearOuter":  [2.35, -0.77, 1.10]
+    },
+    "top": {
+      "frontOuter": [1.85, -0.64, 1.68],
+      "frontInner": [1.87, -0.55, 1.68],
+      "rearInner":  [1.77, -0.54, 1.68],
+      "rearOuter":  [1.75, -0.63, 1.68]
+    }
+  }
+}
